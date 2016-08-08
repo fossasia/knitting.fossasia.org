@@ -175,7 +175,7 @@ The 2016 [Google Summer of Code Project][ayab-apparat-fork] forked this reposito
 [knitpat-waffle]: http://waffle.io/fossasia/knitpat
 
 [ayab-apparat]: #ayab-apparat-
-[ayab-apparat-fork]: https://github.com/allyarnsarebeautiful/ayab-apparat
+[ayab-apparat-fork]: https://github.com/allyarnsarebeautiful/ayab-desktop
 [ayab-apparat-repo]: https://bitbucket.org/chris007de/ayab-apparat
 [ayab-apparat-waffle-badge]: https://badge.waffle.io/allyarnsarebeautiful/ayab-apparat.svg?label=ready&title=Ready "Stories in Ready"
 [ayab-apparat-waffle]: http://waffle.io/allyarnsarebeautiful/ayab-apparat
