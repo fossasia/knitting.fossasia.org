@@ -36,6 +36,7 @@ This kniteditor is developed together with [All Yarns Are Beautiful][ayab].
 You can [download the releases][kniteditor-releases] and install them.
 
 Contribute:
+[Repository][kniteditor-repo]
 [![Issues Ready to Work on][kniteditor-waffle-badge]][kniteditor-waffle]
 [![Read the Documentation][kniteditor-rtd-badge]][kniteditor-rtd]
 [![Travis Build Status][kniteditor-travis-badge]][kniteditor-travis]
@@ -55,6 +56,7 @@ The `knittingpattern` is a Python library for an exchange format for knit work.
 It allows specifying how to knit a particular piece of work.
 
 Contribute:
+[Repository][knittingpattern-repo]
 [![Issues Ready to Work on][knittingpattern-waffle-badge]][knittingpattern-waffle]
 [![Read the Documentation][knittingpattern-rtd-badge]][knittingpattern-rtd]
 [![Travis Build Status][knittingpattern-travis-badge]][knittingpattern-travis]
@@ -75,6 +77,7 @@ convert [knittingpatterns][knittingpattern] into machine instructions.
 It can be used standalone without these other projects.
 
 Contribute:
+[Repository][AYABInterface-repo]
 [![Issues Ready to Work on][AYABInterface-waffle-badge]][AYABInterface-waffle]
 [![Read the Documentation][AYABInterface-rtd-badge]][AYABInterface-rtd]
 [![Travis Build Status][AYABInterface-travis-badge]][AYABInterface-travis]
@@ -94,6 +97,7 @@ This is this overview site over the different knitting projects.
 You can visit the [website][this-site], [add new entries][knitting.fossasia.org-edit].
 
 Contribute:
+[Repository][knitting.fossasia.org-repo]
 [![Issues Ready to Work on][knitting.fossasia.org-waffle-badge]][knitting.fossasia.org-waffle]
 
 
@@ -107,6 +111,7 @@ This project implements the idea to code a circular knitting machine.
 As inexpensive small PCs components like the Rapsberry PI and Arduinos become increasingly powerful there is even an option to include them as optional components in such a 3D printed knitting machine.
 
 Contribute:
+[Repository][circle-knitting-repo]
 [![Issues Ready to Work on][circle-knitting-waffle-badge]][circle-knitting-waffle]
 
 
@@ -117,6 +122,7 @@ Contribute:
 [`knitlib`][knitserver] server and uses the [`knitpat`][knitpat] format.
 
 Contribute:
+[Repository][knitweb-repo]
 [![Issues Ready to Work on][knitweb-waffle-badge]][knitweb-waffle]
 
 
@@ -131,6 +137,7 @@ There also is a Web API.
 Among the primary tasks is to develop plugins based on this solution to add support for more machines.
 
 Contribute:
+[Repository][knitlib-repo]
 [![Issues Ready to Work on][knitlib-waffle-badge]][knitlib-waffle]
 [![Read the Documentation][knitlib-rtd-badge]][knitlib-rtd]
 [![Travis Build Status][knitlib-travis-badge]][knitlib-travis]
@@ -142,6 +149,12 @@ Contribute:
 Knitserver is a [Knitlib][knitlib] client that provides REST API endpoints for knitting machine software and control.
 Knitserver is designed to interact with [Knitweb][knitweb].
 
+Contribute:
+[Repository][knitserver-repo]
+[![Issues Ready to Work on][knitserver-waffle-badge]][knitserver-waffle]
+
+
+
 Outdated Projects
 -----------------
 
@@ -152,9 +165,21 @@ These projects are a bit older, obsoleted or not maintained any more.
 `knitpat` contains a pattern definition format for knit work.
 It is the predecessor of the [`knittingpattern`][knittingpattern] library.
 
+Contribute:
+[Repository][knitpat-repo]
+[![Issues Ready to Work on][knitpat-waffle-badge]][knitpat-waffle]
+
+
+
 ### knitapps [![View on Github][github-logo]][knitapps-repo]
 
 An older version of [this overview site][top].
+
+Contribute:
+[Repository][knitapps-repo]
+[![Issues Ready to Work on][knitapps-waffle-badge]][knitapps-waffle]
+
+
 
 Related Work
 ------------
@@ -162,12 +187,17 @@ Related Work
 This section contains links and related projets and work in the field of knitting.
 Additionally, other overview sites are listed here.
 
+
+
 ### ayab-apparat [![View on Github][github-logo]][ayab-apparat-repo]
 
 This Software is a predecessor of [the Knit Editor][kniteditor].
 It is written in Python and Qt.
 [AYAB][ayab] maintains this project.
 The 2016 [Google Summer of Code Project][ayab-apparat-fork] forked this repository and added the issues for the [kniteditor][kniteditor], [knittingpattern][knittingpattern] and [AYABInterface][AYABInterface].
+
+Contribute:
+[Repository][ayab-apparat-repo]
 
 
 
