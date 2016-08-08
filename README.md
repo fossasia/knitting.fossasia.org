@@ -11,6 +11,7 @@ you find the related work.
   - [knittingpattern][knittingpattern]
   - [AYABInterface][AYABInterface]
   - [knitting.fossasia.org][knitting.fossasia.org]
+  - [circle-knitting][circle-knitting]
   - [knitweb][knitweb]
   - [knitlib][knitlib]
   - [knitserver][knitserver]
@@ -49,6 +50,14 @@ It can be used standalone without these other projects.
 This is this overview site over the different knitting projects. 
 You can visit the [website][this-site], [add new entries][knitting.fossasia.org-repo-edit],
 and [contribute ![Stories in Ready][knitting.fossasia.org-waffle-badge]][knitting.fossasia.org-waffle].
+
+### circle-knitting [![View on Github][github-logo]][circle-knitting-repo]
+
+There are commercial circular knitting machines, that are nearly completely made from plastic. 
+A popular modul is the Addi Express. 
+Plastic can be easily printed out on 3D printers. 
+This project implements the idea to code a circular knitting machine. 
+As inexpensive small PCs components like the Rapsberry PI and Arduinos become increasingly powerful there is even an option to include them as optional components in such a 3D printed knitting machine.
 
 ### knitweb [![View on Github][github-logo]][knitweb-repo]
 
@@ -134,6 +143,11 @@ Related Work
 [knitweb-repo]: https://github.com/fossasia/knitweb
 [knitweb-waffle-badge]: https://badge.waffle.io/fossasia/knitweb.svg?label=ready&title=Ready "Stories in Ready"
 [knitweb-waffle]: http://waffle.io/fossasia/knitweb
+
+[circle-knitting]: #circle-knitting-
+[circle-knitting-repo]: https://github.com/fossasia/circle-knitting
+[circle-knitting-waffle-badge]: https://badge.waffle.io/fossasia/circle-knitting.svg?label=ready&title=Ready "Stories in Ready"
+[circle-knitting-waffle]: http://waffle.io/fossasia/circle-knitting
 
 [knitlib]: #knitlib-
 [knitlib-repo]: https://github.com/fossasia/knitlib
