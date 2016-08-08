@@ -1,5 +1,5 @@
-knitting.fossasia.org
-=====================
+FOSSASIA Knitting Projects
+==========================
 
 [FOSSASIA](https://fossasia.org) has several open-source knitting projects.
 This page is an overview over these projects. You can get started developing
@@ -99,7 +99,7 @@ Related Work
 
 
 
-[top]: #knitting.fossasia.org
+[top]: #fossasia-knitting-projects
 [project-list]: #list-of-knitting-projects
 [outdated-projects]: #outdated-projects
 [this-site]: https://knitting.fossasia.org
