@@ -21,6 +21,8 @@ If you are interested in related work, skip to the bottom.
   - [knitapps][knitserver]
 - [Related Work][related-work]
   - [ayab-apparat][ayab-apparat]
+- [How to Contribute][how-to-contribute]
+  - [Translate][translate]
 
 List of Knitting Projects
 -------------------------
@@ -202,7 +204,22 @@ Contribute:
 
 
 
+How-to-Contribute
+-----------------
 
+You can have various reasons to contribute to the software.
+This section aims to give you an overview over ways to get started.
+
+### Translate
+
+These projects target an international audience:
+
+- [kniteditor][kniteditor]
+  - [blogpost about localization implementation](http://blog.fossasia.org/awesome-kivy-revelations/)
+- [knitweb][knitweb]
+  - [blogpost about localization](http://blog.fossasia.org/knitweb-localization/)
+
+You can add translations to these projects.
 
 
 
@@ -217,6 +234,8 @@ Contribute:
 [related-work]: #related-work
 [fossasia]: https://fossasia.org
 [mailing-list]: https://groups.google.com/forum/#!forum/knitapps
+[how-to-contribute]: #how-to-contribute
+[translate]: #translate
 
 
 
