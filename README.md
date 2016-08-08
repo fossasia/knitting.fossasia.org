@@ -49,7 +49,7 @@ It can be used standalone without these other projects.
 ### knitting.fossasia.org [![View on Github][github-logo]][knitting.fossasia.org-repo]
 
 This is this overview site over the different knitting projects. 
-You can visit the [website][this-site], [add new entries][knitting.fossasia.org-repo-edit],
+You can visit the [website][this-site], [add new entries][knitting.fossasia.org-edit],
 and [contribute ![Stories in Ready][knitting.fossasia.org-waffle-badge]][knitting.fossasia.org-waffle].
 
 ### circle-knitting [![View on Github][github-logo]][circle-knitting-repo]
