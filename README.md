@@ -292,6 +292,8 @@ The 2016 [Google Summer of Code Project][ayab-apparat-fork] forked this reposito
 [knitlib-repo]: https://github.com/fossasia/knitlib
 [knitlib-waffle]: http://waffle.io/fossasia/knitlib
 [knitlib-waffle-badge]: https://badge.waffle.io/fossasia/knitlib.svg?label=ready&title=Ready "Stories in Ready"
+[knitlib-travis]: https://travis-ci.org/fossasia/knitlib
+[knitlib-travis-badge]: https://travis-ci.org/fossasia/knitlib.svg "Travis Build Status"
 [knitlib-rtd]: https://knitlib.readthedocs.org
 [knitlib-rtd-badge]: https://readthedocs.org/projects/knitlib/badge/?version=latest "Read the Documentation"
 
