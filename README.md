@@ -1,5 +1,5 @@
-FOSSASIA Knitting Projects
-==========================
+Knitting Projects
+=================
 
 [FOSSASIA](https://fossasia.org) has several open-source knitting projects.
 This page is an overview over these projects. You can get started developing
