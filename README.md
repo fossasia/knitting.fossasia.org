@@ -1,10 +1,11 @@
 Knitting Projects
 =================
 
-[FOSSASIA](https://fossasia.org) has several open-source knitting projects.
-This page is an overview over these projects. You can get started developing
-on the projects or just check them out and install them. In the bottom,
-you find the related work.
+[FOSSASIA][fossasia] has several open-source knitting projects.
+Here, you can an overview over these projects.
+You can get started developing on the projects or just check them out and install them.
+We also have a [mailing list][mailing-list] which you can join to discuss the projects.
+If you are interested in related work, skip to the bottom.
 
 - [List of Knitting Projects][project-list]
   - [kniteditor][kniteditor]
@@ -214,6 +215,8 @@ Contribute:
 [this-site]: https://knitting.fossasia.org
 [ayab]: http://ayab-knitting.com/
 [related-work]: #related-work
+[fossasia]: https://fossasia.org
+[mailing-list]: https://groups.google.com/forum/#!forum/knitapps
 
 
 
