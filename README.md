@@ -8,7 +8,7 @@ List of Knitting Projects
 
 Here you can find a list of knitting projects in the FOSSASIA organization:
 
-### kniteditor
+### kniteditor [<img src="images/GitHub.svg" style="height:1em;vertical-align:middle;"/>](https://github.com/fossasia/kniteditor)
 
 The Knit Editor is an editor for the knit exchange format. It allows [creating digital knit works](#knittingpattern) and knitting it with several knitting machines.
 
