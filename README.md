@@ -104,7 +104,7 @@ Also, other overview sites are listed here.
 This Software is a predecessor of [the Knit Editor][kniteditor].
 It is written in Python and Qt.
 [AYAB][ayab] maintains this project.
-
+The 2016 [Google Summer of Code Project][ayab-apparat-fork] forked this repository and added the issues for the [kniteditor][kniteditor], [knittingpattern][knittingpattern] and [AYABInterface][AYABInterface].
 
 
 
