@@ -11,8 +11,12 @@ you find the related work.
   - [knittingpattern][knittingpattern]
   - [AYABInterface][AYABInterface]
   - [knitting.fossasia.org][knitting.fossasia.org]
+  - [knitweb][knitweb]
+  - [knitlib][knitlib]
+  - [knitserver][knitserver]
 - [Outdated Projects][outdated-projects]
   - [knitpat][knitpat]
+  - [knitapps][knitserver]
 - [Related Work][related-work]
 
 List of Knitting Projects
@@ -43,9 +47,27 @@ It can be used standalone without these other projects.
 ### knitting.fossasia.org [![View on Github][github-logo]][knitting.fossasia.org-repo]
 
 This is this overview site over the different knitting projects. 
-You can visit the [website][this-site],
-and [contribute [![Stories in Ready][knitting.fossasia.org-waffle-badge]][knitting.fossasia.org-waffle].
+You can visit the [website][this-site], [add new entries][knitting.fossasia.org-repo-edit],
+and [contribute ![Stories in Ready][knitting.fossasia.org-waffle-badge]][knitting.fossasia.org-waffle].
 
+### knitweb [![View on Github][github-logo]][knitweb-repo]
+
+[`knitweb`][knitweb-repo] is an app frontend and backend that works together with the
+[`knitlib`][knitserver] server and uses the [`knitpat`][knitpat] format.
+
+### knitlib [![View on Github][github-logo]][knitlib-repo]
+
+Knitlib is a library designed to support the operation of varied knitting machines, mechanisms, and hacks.
+Knitlib is based on projects like [AYAB][ayab], PDD, and KnitterStream to control knitting machines.
+Knitlib features a plugin system for knitting machines and implements an API to control machines' operation,
+knitting jobs and knitting patterns. The software is based on Python.
+There also is a Web API.
+Among the primary tasks is to develop plugins based on this solution to add support for more machines.
+
+### knitserver [![View on Github][github-logo]][knitserver-repo]
+
+Knitserver is a [Knitlib][knitlib] client that provides REST API endpoints for knitting machine software and control.
+Knitserver is designed to interact with [Knitweb][knitweb].
 
 Outdated Projects
 -----------------
@@ -54,6 +76,10 @@ Outdated Projects
 
 `knitpat` contains a pattern definition format for knit work.
 It is the predecessor of the [`knittingpattern`][knittingpattern] library.
+
+### knitapps [![View on Github][github-logo]][knitapps-repo]
+
+An older version of [this overview site][top].
 
 Related Work
 ------------
@@ -100,6 +126,27 @@ Related Work
 [knitting.fossasia.org-repo]: https://github.com/fossasia/knitting.fossasia.org
 [knitting.fossasia.org-waffle-badge]: https://badge.waffle.io/fossasia/knitting.fossasia.org.svg?label=ready&title=Ready "Stories in Ready"
 [knitting.fossasia.org-waffle]: http://waffle.io/fossasia/knitting.fossasia.org
+[knitting.fossasia.org-edit]: https://github.com/fossasia/knitting.fossasia.org/edit/gh-pages/README.md
+
+[knitweb]: #knitweb-
+[knitweb-repo]: https://github.com/fossasia/knitweb
+[knitweb-waffle-badge]: https://badge.waffle.io/fossasia/knitweb.svg?label=ready&title=Ready "Stories in Ready"
+[knitweb-waffle]: http://waffle.io/fossasia/knitweb
+
+[knitlib]: #knitlib-
+[knitlib-repo]: https://github.com/fossasia/knitlib
+[knitlib-waffle-badge]: https://badge.waffle.io/fossasia/knitlib.svg?label=ready&title=Ready "Stories in Ready"
+[knitlib-waffle]: http://waffle.io/fossasia/knitlib
+
+[knitserver]: #knitserver-
+[knitserver-repo]: https://github.com/fossasia/knitserver
+[knitserver-waffle-badge]: https://badge.waffle.io/fossasia/knitserver.svg?label=ready&title=Ready "Stories in Ready"
+[knitserver-waffle]: http://waffle.io/fossasia/knitserver
+
+[knitapps]: #knitapps-
+[knitapps-repo]: https://github.com/fossasia/knitapps
+[knitapps-waffle-badge]: https://badge.waffle.io/fossasia/knitapps.svg?label=ready&title=Ready "Stories in Ready"
+[knitapps-waffle]: http://waffle.io/fossasia/knitapps
 
 [knitpat]: #knitpat-
 [knitpat-repo]: https://github.com/fossasia/knitpat
