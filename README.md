@@ -72,6 +72,8 @@ Knitserver is designed to interact with [Knitweb][knitweb].
 Outdated Projects
 -----------------
 
+These projects are a bit older, obsoleted or not maintained any more.
+
 ### knitpat [![View on Github][github-logo]][knitpat-repo]
 
 `knitpat` contains a pattern definition format for knit work.
