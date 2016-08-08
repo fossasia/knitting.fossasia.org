@@ -80,28 +80,28 @@ Related Work
 [ayab]: http://ayab-knitting.com/
 [related-work]: #related-work
 
+[kniteditor]: #kniteditor-
 [kniteditor-repo]: https://github.com/fossasia/kniteditor
-[kniteditor]: #kniteditor
 [kniteditor-waffle-badge]: https://badge.waffle.io/fossasia/kniteditor.svg?label=ready&title=Ready "Stories in Ready"
 [kniteditor-waffle]: http://waffle.io/fossasia/kniteditor
 [kniteditor-releases]: https://github.com/fossasia/kniteditor/releases
 
+[knittingpattern]: #knittingpattern-
 [knittingpattern-repo]: https://github.com/fossasia/knittingpattern
-[knittingpattern]: #knittingpattern
 [knittingpattern-waffle-badge]: https://badge.waffle.io/fossasia/knittingpattern.svg?label=ready&title=Ready "Stories in Ready"
 [knittingpattern-waffle]: http://waffle.io/fossasia/knittingpattern
 
+[AYABInterface]: #AYABInterface-
 [AYABInterface-repo]: https://github.com/fossasia/AYABInterface
-[AYABInterface]: #AYABInterface
 [AYABInterface-waffle-badge]: https://badge.waffle.io/fossasia/AYABInterface.svg?label=ready&title=Ready "Stories in Ready"
 [AYABInterface-waffle]: http://waffle.io/fossasia/AYABInterface
 
+[knitting.fossasia.org]: #knitting.fossasia.org-
 [knitting.fossasia.org-repo]: https://github.com/fossasia/knitting.fossasia.org
-[knitting.fossasia.org]: #knitting.fossasia.org
 [knitting.fossasia.org-waffle-badge]: https://badge.waffle.io/fossasia/knitting.fossasia.org.svg?label=ready&title=Ready "Stories in Ready"
 [knitting.fossasia.org-waffle]: http://waffle.io/fossasia/knitting.fossasia.org
 
+[knitpat]: #knitpat-
 [knitpat-repo]: https://github.com/fossasia/knitpat
-[knitpat]: #knitpat
 
 [github-logo]: images/GitHub.png "View on Github"
