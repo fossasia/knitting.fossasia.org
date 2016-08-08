@@ -48,6 +48,7 @@ Contribute:
 [![Python Package Index Downloads][kniteditor-pypi-downloads-badge]][kniteditor-pypi-downloads]
 
 
+
 ### knittingpattern [![View on Github][github-logo]][knittingpattern-repo]
 
 The `knittingpattern` is a Python library for an exchange format for knit work.
@@ -64,6 +65,7 @@ Contribute:
 [![Code Health][knittingpattern-landscape-badge]][knittingpattern-landscape]
 [![Python Package Index Version][knittingpattern-pypi-badge]][knittingpattern-pypi]
 [![Python Package Index Downloads][knittingpattern-pypi-downloads-badge]][knittingpattern-pypi-downloads]
+
 
 
 ### AYABInterface [![View on Github][github-logo]][AYABInterface-repo]
@@ -85,11 +87,16 @@ Contribute:
 [![Python Package Index Downloads][AYABInterface-pypi-downloads-badge]][AYABInterface-pypi-downloads]
 
 
+
 ### knitting.fossasia.org [![View on Github][github-logo]][knitting.fossasia.org-repo]
 
 This is this overview site over the different knitting projects. 
-You can visit the [website][this-site], [add new entries][knitting.fossasia.org-edit],
-and [contribute ![Stories in Ready][knitting.fossasia.org-waffle-badge]][knitting.fossasia.org-waffle].
+You can visit the [website][this-site], [add new entries][knitting.fossasia.org-edit].
+
+Contribute:
+[![Issues Ready to Work on][knitting.fossasia.org-waffle-badge]][knitting.fossasia.org-waffle]
+
+
 
 ### circle-knitting [![View on Github][github-logo]][circle-knitting-repo]
 
@@ -99,10 +106,20 @@ Plastic can be easily printed out on 3D printers.
 This project implements the idea to code a circular knitting machine. 
 As inexpensive small PCs components like the Rapsberry PI and Arduinos become increasingly powerful there is even an option to include them as optional components in such a 3D printed knitting machine.
 
+Contribute:
+[![Issues Ready to Work on][circle-knitting-waffle-badge]][circle-knitting-waffle]
+
+
+
 ### knitweb [![View on Github][github-logo]][knitweb-repo]
 
 [`knitweb`][knitweb-repo] is an app frontend and backend that works together with the
 [`knitlib`][knitserver] server and uses the [`knitpat`][knitpat] format.
+
+Contribute:
+[![Issues Ready to Work on][knitweb-waffle-badge]][knitweb-waffle]
+
+
 
 ### knitlib [![View on Github][github-logo]][knitlib-repo]
 
@@ -112,6 +129,13 @@ Knitlib features a plugin system for knitting machines and implements an API to 
 knitting jobs and knitting patterns. The software is based on Python.
 There also is a Web API.
 Among the primary tasks is to develop plugins based on this solution to add support for more machines.
+
+Contribute:
+[![Issues Ready to Work on][knitlib-waffle-badge]][knitlib-waffle]
+[![Read the Documentation][knitlib-rtd-badge]][knitlib-rtd]
+[![Travis Build Status][knitlib-travis-badge]][knitlib-travis]
+
+
 
 ### knitserver [![View on Github][github-logo]][knitserver-repo]
 
@@ -252,6 +276,8 @@ The 2016 [Google Summer of Code Project][ayab-apparat-fork] forked this reposito
 [knitweb-repo]: https://github.com/fossasia/knitweb
 [knitweb-waffle]: http://waffle.io/fossasia/knitweb
 [knitweb-waffle-badge]: https://badge.waffle.io/fossasia/knitweb.svg?label=ready&title=Ready "Stories in Ready"
+[knitweb-travis]: https://travis-ci.org/fossasia/knitweb
+[knitweb-travis-badge]: https://travis-ci.org/fossasia/knitweb.svg "Travis Build Status"
 
 
 
@@ -266,6 +292,8 @@ The 2016 [Google Summer of Code Project][ayab-apparat-fork] forked this reposito
 [knitlib-repo]: https://github.com/fossasia/knitlib
 [knitlib-waffle]: http://waffle.io/fossasia/knitlib
 [knitlib-waffle-badge]: https://badge.waffle.io/fossasia/knitlib.svg?label=ready&title=Ready "Stories in Ready"
+[knitlib-rtd]: https://knitlib.readthedocs.org
+[knitlib-rtd-badge]: https://readthedocs.org/projects/knitlib/badge/?version=latest "Read the Documentation"
 
 
 
