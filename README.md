@@ -36,8 +36,8 @@ This kniteditor is developed together with [All Yarns Are Beautiful][ayab].
 You can [download the releases][kniteditor-releases] and install them.
 
 Contribute:
-[![Read the Documentation][kniteditor-rtd-badge]][kniteditor-rtd]
 [![Issues Ready to Work on][kniteditor-waffle-badge]][kniteditor-waffle]
+[![Read the Documentation][kniteditor-rtd-badge]][kniteditor-rtd]
 [![Travis Build Status][kniteditor-travis-badge]][kniteditor-travis]
 [![AppVeyor Build Status][kniteditor-appveyor-badge]][kniteditor-appveyor]
 [![Code Climate][kniteditor-codeclimate-badge]][kniteditor-codeclimate]
@@ -52,6 +52,19 @@ Contribute:
 
 The `knittingpattern` is a Python library for an exchange format for knit work.
 It allows specifying how to knit a particular piece of work.
+
+Contribute:
+[![Issues Ready to Work on][knittingpattern-waffle-badge]][knittingpattern-waffle]
+[![Read the Documentation][knittingpattern-rtd-badge]][knittingpattern-rtd]
+[![Travis Build Status][knittingpattern-travis-badge]][knittingpattern-travis]
+[![AppVeyor Build Status][knittingpattern-appveyor-badge]][knittingpattern-appveyor]
+[![Code Climate][knittingpattern-codeclimate-badge]][knittingpattern-codeclimate]
+[![Test Coverage][knittingpattern-test-coverage-badge]][knittingpattern-test-coverage]
+[![Code Issue Count][knittingpattern-issue-count-badge]][knittingpattern-issue-count]
+[![Code Health][knittingpattern-landscape-badge]][knittingpattern-landscape]
+[![Python Package Index Version][knittingpattern-pypi-badge]][knittingpattern-pypi]
+[![Python Package Index Downloads][knittingpattern-pypi-downloads-badge]][knittingpattern-pypi-downloads]
+
 
 ### AYABInterface [![View on Github][github-logo]][AYABInterface-repo]
 
@@ -135,6 +148,7 @@ The 2016 [Google Summer of Code Project][ayab-apparat-fork] forked this reposito
 [ayab]: http://ayab-knitting.com/
 [related-work]: #related-work
 
+
 [kniteditor]: #kniteditor-
 [kniteditor-repo]: https://github.com/fossasia/kniteditor
 [kniteditor-waffle]: http://waffle.io/fossasia/kniteditor
@@ -158,17 +172,33 @@ The 2016 [Google Summer of Code Project][ayab-apparat-fork] forked this reposito
 [kniteditor-landscape]: https://landscape.io/github/fossasia/kniteditor/master
 [kniteditor-landscape-badge]: https://landscape.io/github/fossasia/kniteditor/master/landscape.svg?style=flat "Code Health"
 
-
 [kniteditor-releases]: https://github.com/fossasia/kniteditor/releases
-
-
-
 
 
 [knittingpattern]: #knittingpattern-
 [knittingpattern-repo]: https://github.com/fossasia/knittingpattern
 [knittingpattern-waffle]: http://waffle.io/fossasia/knittingpattern
 [knittingpattern-waffle-badge]: https://badge.waffle.io/fossasia/knittingpattern.svg?label=ready&title=Ready "Stories in Ready"
+[knittingpattern-travis]: https://travis-ci.org/fossasia/knittingpattern
+[knittingpattern-travis-badge]: https://travis-ci.org/fossasia/knittingpattern.svg "Travis Build Status"
+[knittingpattern-appveyor]: https://ci.appveyor.com/project/AllYarnsAreBeautiful/knittingpattern
+[knittingpattern-appveyor-badge]: https://ci.appveyor.com/api/projects/status/c1983ovsc8thlhvi?svg=true "AppVeyor Build Status"
+[knittingpattern-codeclimate]: https://codeclimate.com/github/fossasia/knittingpattern
+[knittingpattern-codeclimate-badge]: https://codeclimate.com/github/fossasia/knittingpattern/badges/gpa.svg "Code Climate"
+[knittingpattern-test-coverage]: https://codeclimate.com/github/fossasia/knittingpattern/coverage
+[knittingpattern-test-coverage-badge]: https://codeclimate.com/github/fossasia/knittingpattern/badges/coverage.svg "Test Coverage"
+[knittingpattern-issue-count]: https://codeclimate.com/github/fossasia/knittingpattern
+[knittingpattern-issue-count-badge]: https://codeclimate.com/github/fossasia/knittingpattern/badges/issue_count.svg "Code Issue Count"
+[knittingpattern-pypi]: https://pypi.python.org/pypi/knittingpattern
+[knittingpattern-pypi-badge]: https://badge.fury.io/py/knittingpattern.svg "Python Package Index Version"
+[knittingpattern-pypi-downloads]: https://pypi.python.org/pypi/knittingpattern#downloads
+[knittingpattern-pypi-downloads-badge]: https://img.shields.io/pypi/dm/knittingpattern.svg "Python Package Index Downloads"
+[knittingpattern-rtd]: https://knittingpattern.readthedocs.org
+[knittingpattern-rtd-badge]: https://readthedocs.org/projects/knittingpattern/badge/?version=latest "Read the Documentation"
+[knittingpattern-landscape]: https://landscape.io/github/fossasia/knittingpattern/master
+[knittingpattern-landscape-badge]: https://landscape.io/github/fossasia/knittingpattern/master/landscape.svg?style=flat "Code Health"
+
+
 
 [AYABInterface]: #AYABInterface-
 [AYABInterface-repo]: https://github.com/fossasia/AYABInterface
