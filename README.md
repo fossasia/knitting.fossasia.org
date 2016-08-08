@@ -72,6 +72,19 @@ The `AYABInterface` is used by the [Knit Editor][kniteditor] to
 convert [knittingpatterns][knittingpattern] into machine instructions.
 It can be used standalone without these other projects.
 
+Contribute:
+[![Issues Ready to Work on][AYABInterface-waffle-badge]][AYABInterface-waffle]
+[![Read the Documentation][AYABInterface-rtd-badge]][AYABInterface-rtd]
+[![Travis Build Status][AYABInterface-travis-badge]][AYABInterface-travis]
+[![AppVeyor Build Status][AYABInterface-appveyor-badge]][AYABInterface-appveyor]
+[![Code Climate][AYABInterface-codeclimate-badge]][AYABInterface-codeclimate]
+[![Test Coverage][AYABInterface-test-coverage-badge]][AYABInterface-test-coverage]
+[![Code Issue Count][AYABInterface-issue-count-badge]][AYABInterface-issue-count]
+[![Code Health][AYABInterface-landscape-badge]][AYABInterface-landscape]
+[![Python Package Index Version][AYABInterface-pypi-badge]][AYABInterface-pypi]
+[![Python Package Index Downloads][AYABInterface-pypi-downloads-badge]][AYABInterface-pypi-downloads]
+
+
 ### knitting.fossasia.org [![View on Github][github-logo]][knitting.fossasia.org-repo]
 
 This is this overview site over the different knitting projects. 
@@ -149,6 +162,7 @@ The 2016 [Google Summer of Code Project][ayab-apparat-fork] forked this reposito
 [related-work]: #related-work
 
 
+
 [kniteditor]: #kniteditor-
 [kniteditor-repo]: https://github.com/fossasia/kniteditor
 [kniteditor-waffle]: http://waffle.io/fossasia/kniteditor
@@ -173,6 +187,7 @@ The 2016 [Google Summer of Code Project][ayab-apparat-fork] forked this reposito
 [kniteditor-landscape-badge]: https://landscape.io/github/fossasia/kniteditor/master/landscape.svg?style=flat "Code Health"
 
 [kniteditor-releases]: https://github.com/fossasia/kniteditor/releases
+
 
 
 [knittingpattern]: #knittingpattern-
@@ -204,6 +219,26 @@ The 2016 [Google Summer of Code Project][ayab-apparat-fork] forked this reposito
 [AYABInterface-repo]: https://github.com/fossasia/AYABInterface
 [AYABInterface-waffle]: http://waffle.io/fossasia/AYABInterface
 [AYABInterface-waffle-badge]: https://badge.waffle.io/fossasia/AYABInterface.svg?label=ready&title=Ready "Stories in Ready"
+[AYABInterface-travis]: https://travis-ci.org/fossasia/AYABInterface
+[AYABInterface-travis-badge]: https://travis-ci.org/fossasia/AYABInterface.svg "Travis Build Status"
+[AYABInterface-appveyor]: https://ci.appveyor.com/project/AllYarnsAreBeautiful/AYABInterface
+[AYABInterface-appveyor-badge]: https://ci.appveyor.com/api/projects/status/a6yhbt0rqvb212s7?svg=true "AppVeyor Build Status"
+[AYABInterface-codeclimate]: https://codeclimate.com/github/fossasia/AYABInterface
+[AYABInterface-codeclimate-badge]: https://codeclimate.com/github/fossasia/AYABInterface/badges/gpa.svg "Code Climate"
+[AYABInterface-test-coverage]: https://codeclimate.com/github/fossasia/AYABInterface/coverage
+[AYABInterface-test-coverage-badge]: https://codeclimate.com/github/fossasia/AYABInterface/badges/coverage.svg "Test Coverage"
+[AYABInterface-issue-count]: https://codeclimate.com/github/fossasia/AYABInterface
+[AYABInterface-issue-count-badge]: https://codeclimate.com/github/fossasia/AYABInterface/badges/issue_count.svg "Code Issue Count"
+[AYABInterface-pypi]: https://pypi.python.org/pypi/AYABInterface
+[AYABInterface-pypi-badge]: https://badge.fury.io/py/AYABInterface.svg "Python Package Index Version"
+[AYABInterface-pypi-downloads]: https://pypi.python.org/pypi/AYABInterface#downloads
+[AYABInterface-pypi-downloads-badge]: https://img.shields.io/pypi/dm/AYABInterface.svg "Python Package Index Downloads"
+[AYABInterface-rtd]: https://AYABInterface.readthedocs.org
+[AYABInterface-rtd-badge]: https://readthedocs.org/projects/AYABInterface/badge/?version=latest "Read the Documentation"
+[AYABInterface-landscape]: https://landscape.io/github/fossasia/AYABInterface/master
+[AYABInterface-landscape-badge]: https://landscape.io/github/fossasia/AYABInterface/master/landscape.svg?style=flat "Code Health"
+
+
 
 [knitting.fossasia.org]: #knittingfossasiaorg-
 [knitting.fossasia.org-repo]: https://github.com/fossasia/knitting.fossasia.org
@@ -211,35 +246,49 @@ The 2016 [Google Summer of Code Project][ayab-apparat-fork] forked this reposito
 [knitting.fossasia.org-waffle-badge]: https://badge.waffle.io/fossasia/knitting.fossasia.org.svg?label=ready&title=Ready "Stories in Ready"
 [knitting.fossasia.org-edit]: https://github.com/fossasia/knitting.fossasia.org/edit/gh-pages/README.md
 
+
+
 [knitweb]: #knitweb-
 [knitweb-repo]: https://github.com/fossasia/knitweb
 [knitweb-waffle]: http://waffle.io/fossasia/knitweb
 [knitweb-waffle-badge]: https://badge.waffle.io/fossasia/knitweb.svg?label=ready&title=Ready "Stories in Ready"
+
+
 
 [circle-knitting]: #circle-knitting-
 [circle-knitting-repo]: https://github.com/fossasia/circle-knitting
 [circle-knitting-waffle]: http://waffle.io/fossasia/circle-knitting
 [circle-knitting-waffle-badge]: https://badge.waffle.io/fossasia/circle-knitting.svg?label=ready&title=Ready "Stories in Ready"
 
+
+
 [knitlib]: #knitlib-
 [knitlib-repo]: https://github.com/fossasia/knitlib
 [knitlib-waffle]: http://waffle.io/fossasia/knitlib
 [knitlib-waffle-badge]: https://badge.waffle.io/fossasia/knitlib.svg?label=ready&title=Ready "Stories in Ready"
+
+
 
 [knitserver]: #knitserver-
 [knitserver-repo]: https://github.com/fossasia/knitserver
 [knitserver-waffle]: http://waffle.io/fossasia/knitserver
 [knitserver-waffle-badge]: https://badge.waffle.io/fossasia/knitserver.svg?label=ready&title=Ready "Stories in Ready"
 
+
+
 [knitapps]: #knitapps-
 [knitapps-repo]: https://github.com/fossasia/knitapps
 [knitapps-waffle]: http://waffle.io/fossasia/knitapps
 [knitapps-waffle-badge]: https://badge.waffle.io/fossasia/knitapps.svg?label=ready&title=Ready "Stories in Ready"
 
+
+
 [knitpat]: #knitpat-
 [knitpat-repo]: https://github.com/fossasia/knitpat
 [knitpat-waffle]: http://waffle.io/fossasia/knitpat
 [knitpat-waffle-badge]: https://badge.waffle.io/fossasia/knitpat.svg?label=ready&title=Ready "Stories in Ready"
+
+
 
 [ayab-apparat]: #ayab-apparat-
 [ayab-apparat-fork]: https://github.com/allyarnsarebeautiful/ayab-desktop
