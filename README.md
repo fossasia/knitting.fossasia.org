@@ -35,6 +35,19 @@ and knitting it with several knitting machines.
 This kniteditor is developed together with [All Yarns Are Beautiful][ayab].
 You can [download the releases][kniteditor-releases] and install them.
 
+Contribute:
+[![Read the Documentation][kniteditor-rtd-badge]][kniteditor-rtd]
+[![Issues Ready to Work on][kniteditor-waffle-badge]][kniteditor-waffle]
+[![Travis Build Status][kniteditor-travis-badge]][kniteditor-travis]
+[![AppVeyor Build Status][kniteditor-appveyor-badge]][kniteditor-appveyor]
+[![Code Climate][kniteditor-codeclimate-badge]][kniteditor-codeclimate]
+[![Test Coverage][kniteditor-test-coverage-badge]][kniteditor-test-coverage]
+[![Code Issue Count][kniteditor-issue-count-badge]][kniteditor-issue-count]
+[![Code Health][kniteditor-landscape-badge]][kniteditor-landscape]
+[![Python Package Index Version][kniteditor-pypi-badge]][kniteditor-pypi]
+[![Python Package Index Downloads][kniteditor-pypi-downloads-badge]][kniteditor-pypi-downloads]
+
+
 ### knittingpattern [![View on Github][github-logo]][knittingpattern-repo]
 
 The `knittingpattern` is a Python library for an exchange format for knit work.
@@ -97,7 +110,7 @@ Related Work
 ------------
 
 This section contains links and related projets and work in the field of knitting.
-Also, other overview sites are listed here.
+Additionally, other overview sites are listed here.
 
 ### ayab-apparat [![View on Github][github-logo]][ayab-apparat-repo]
 
@@ -124,61 +137,85 @@ The 2016 [Google Summer of Code Project][ayab-apparat-fork] forked this reposito
 
 [kniteditor]: #kniteditor-
 [kniteditor-repo]: https://github.com/fossasia/kniteditor
-[kniteditor-waffle-badge]: https://badge.waffle.io/fossasia/kniteditor.svg?label=ready&title=Ready "Stories in Ready"
 [kniteditor-waffle]: http://waffle.io/fossasia/kniteditor
+[kniteditor-waffle-badge]: https://badge.waffle.io/fossasia/kniteditor.svg?label=ready&title=Ready "Issues Ready to Work on"
+[kniteditor-travis]: https://travis-ci.org/fossasia/kniteditor
+[kniteditor-travis-badge]: https://travis-ci.org/fossasia/kniteditor.svg "Travis Build Status"
+[kniteditor-appveyor]: https://ci.appveyor.com/project/AllYarnsAreBeautiful/kniteditor
+[kniteditor-appveyor-badge]: https://ci.appveyor.com/api/projects/status/yildjtxp8an3vejx?svg=true "AppVeyor Build Status"
+[kniteditor-codeclimate]: https://codeclimate.com/github/fossasia/kniteditor
+[kniteditor-codeclimate-badge]: https://codeclimate.com/github/fossasia/kniteditor/badges/gpa.svg "Code Climate"
+[kniteditor-test-coverage]: https://codeclimate.com/github/fossasia/kniteditor/coverage
+[kniteditor-test-coverage-badge]: https://codeclimate.com/github/fossasia/kniteditor/badges/coverage.svg "Test Coverage"
+[kniteditor-issue-count]: https://codeclimate.com/github/fossasia/kniteditor
+[kniteditor-issue-count-badge]: https://codeclimate.com/github/fossasia/kniteditor/badges/issue_count.svg "Code Issue Count"
+[kniteditor-pypi]: https://pypi.python.org/pypi/kniteditor
+[kniteditor-pypi-badge]: https://badge.fury.io/py/kniteditor.svg "Python Package Index Version"
+[kniteditor-pypi-downloads]: https://pypi.python.org/pypi/kniteditor#downloads
+[kniteditor-pypi-downloads-badge]: https://img.shields.io/pypi/dm/kniteditor.svg "Python Package Index Downloads"
+[kniteditor-rtd]: https://kniteditor.readthedocs.org
+[kniteditor-rtd-badge]: https://readthedocs.org/projects/kniteditor/badge/?version=latest "Read the Documentation"
+[kniteditor-landscape]: https://landscape.io/github/fossasia/kniteditor/master
+[kniteditor-landscape-badge]: https://landscape.io/github/fossasia/kniteditor/master/landscape.svg?style=flat "Code Health"
+
+
 [kniteditor-releases]: https://github.com/fossasia/kniteditor/releases
+
+
+
+
 
 [knittingpattern]: #knittingpattern-
 [knittingpattern-repo]: https://github.com/fossasia/knittingpattern
-[knittingpattern-waffle-badge]: https://badge.waffle.io/fossasia/knittingpattern.svg?label=ready&title=Ready "Stories in Ready"
 [knittingpattern-waffle]: http://waffle.io/fossasia/knittingpattern
+[knittingpattern-waffle-badge]: https://badge.waffle.io/fossasia/knittingpattern.svg?label=ready&title=Ready "Stories in Ready"
 
 [AYABInterface]: #AYABInterface-
 [AYABInterface-repo]: https://github.com/fossasia/AYABInterface
-[AYABInterface-waffle-badge]: https://badge.waffle.io/fossasia/AYABInterface.svg?label=ready&title=Ready "Stories in Ready"
 [AYABInterface-waffle]: http://waffle.io/fossasia/AYABInterface
+[AYABInterface-waffle-badge]: https://badge.waffle.io/fossasia/AYABInterface.svg?label=ready&title=Ready "Stories in Ready"
 
 [knitting.fossasia.org]: #knittingfossasiaorg-
 [knitting.fossasia.org-repo]: https://github.com/fossasia/knitting.fossasia.org
-[knitting.fossasia.org-waffle-badge]: https://badge.waffle.io/fossasia/knitting.fossasia.org.svg?label=ready&title=Ready "Stories in Ready"
 [knitting.fossasia.org-waffle]: http://waffle.io/fossasia/knitting.fossasia.org
+[knitting.fossasia.org-waffle-badge]: https://badge.waffle.io/fossasia/knitting.fossasia.org.svg?label=ready&title=Ready "Stories in Ready"
 [knitting.fossasia.org-edit]: https://github.com/fossasia/knitting.fossasia.org/edit/gh-pages/README.md
 
 [knitweb]: #knitweb-
 [knitweb-repo]: https://github.com/fossasia/knitweb
-[knitweb-waffle-badge]: https://badge.waffle.io/fossasia/knitweb.svg?label=ready&title=Ready "Stories in Ready"
 [knitweb-waffle]: http://waffle.io/fossasia/knitweb
+[knitweb-waffle-badge]: https://badge.waffle.io/fossasia/knitweb.svg?label=ready&title=Ready "Stories in Ready"
 
 [circle-knitting]: #circle-knitting-
 [circle-knitting-repo]: https://github.com/fossasia/circle-knitting
-[circle-knitting-waffle-badge]: https://badge.waffle.io/fossasia/circle-knitting.svg?label=ready&title=Ready "Stories in Ready"
 [circle-knitting-waffle]: http://waffle.io/fossasia/circle-knitting
+[circle-knitting-waffle-badge]: https://badge.waffle.io/fossasia/circle-knitting.svg?label=ready&title=Ready "Stories in Ready"
 
 [knitlib]: #knitlib-
 [knitlib-repo]: https://github.com/fossasia/knitlib
-[knitlib-waffle-badge]: https://badge.waffle.io/fossasia/knitlib.svg?label=ready&title=Ready "Stories in Ready"
 [knitlib-waffle]: http://waffle.io/fossasia/knitlib
+[knitlib-waffle-badge]: https://badge.waffle.io/fossasia/knitlib.svg?label=ready&title=Ready "Stories in Ready"
 
 [knitserver]: #knitserver-
 [knitserver-repo]: https://github.com/fossasia/knitserver
-[knitserver-waffle-badge]: https://badge.waffle.io/fossasia/knitserver.svg?label=ready&title=Ready "Stories in Ready"
 [knitserver-waffle]: http://waffle.io/fossasia/knitserver
+[knitserver-waffle-badge]: https://badge.waffle.io/fossasia/knitserver.svg?label=ready&title=Ready "Stories in Ready"
 
 [knitapps]: #knitapps-
 [knitapps-repo]: https://github.com/fossasia/knitapps
-[knitapps-waffle-badge]: https://badge.waffle.io/fossasia/knitapps.svg?label=ready&title=Ready "Stories in Ready"
 [knitapps-waffle]: http://waffle.io/fossasia/knitapps
+[knitapps-waffle-badge]: https://badge.waffle.io/fossasia/knitapps.svg?label=ready&title=Ready "Stories in Ready"
 
 [knitpat]: #knitpat-
 [knitpat-repo]: https://github.com/fossasia/knitpat
-[knitpat-waffle-badge]: https://badge.waffle.io/fossasia/knitpat.svg?label=ready&title=Ready "Stories in Ready"
 [knitpat-waffle]: http://waffle.io/fossasia/knitpat
+[knitpat-waffle-badge]: https://badge.waffle.io/fossasia/knitpat.svg?label=ready&title=Ready "Stories in Ready"
 
 [ayab-apparat]: #ayab-apparat-
 [ayab-apparat-fork]: https://github.com/allyarnsarebeautiful/ayab-desktop
 [ayab-apparat-repo]: https://bitbucket.org/chris007de/ayab-apparat
-[ayab-apparat-waffle-badge]: https://badge.waffle.io/allyarnsarebeautiful/ayab-apparat.svg?label=ready&title=Ready "Stories in Ready"
 [ayab-apparat-waffle]: http://waffle.io/allyarnsarebeautiful/ayab-apparat
+[ayab-apparat-waffle-badge]: https://badge.waffle.io/allyarnsarebeautiful/ayab-apparat.svg?label=ready&title=Ready "Stories in Ready"
 
 
 
