@@ -96,7 +96,7 @@ Related Work
 [AYABInterface-waffle-badge]: https://badge.waffle.io/fossasia/AYABInterface.svg?label=ready&title=Ready "Stories in Ready"
 [AYABInterface-waffle]: http://waffle.io/fossasia/AYABInterface
 
-[knitting.fossasia.org]: #knitting.fossasia.org-
+[knitting.fossasia.org]: #knittingfossasiaorg-
 [knitting.fossasia.org-repo]: https://github.com/fossasia/knitting.fossasia.org
 [knitting.fossasia.org-waffle-badge]: https://badge.waffle.io/fossasia/knitting.fossasia.org.svg?label=ready&title=Ready "Stories in Ready"
 [knitting.fossasia.org-waffle]: http://waffle.io/fossasia/knitting.fossasia.org
