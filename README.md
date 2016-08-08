@@ -19,6 +19,7 @@ you find the related work.
   - [knitpat][knitpat]
   - [knitapps][knitserver]
 - [Related Work][related-work]
+  - [ayab-apparat][ayab-apparat]
 
 List of Knitting Projects
 -------------------------
@@ -95,10 +96,14 @@ An older version of [this overview site][top].
 Related Work
 ------------
 
+This section contains links and related projets and work in the field of knitting.
+Also, other overview sites are listed here.
 
+### ayab-apparat [![View on Github][github-logo]][ayab-apparat-repo]
 
-
-
+This Software is a predecessor of [the Knit Editor][kniteditor].
+It is written in Python and Qt.
+[AYAB][ayab] maintains this project.
 
 
 
@@ -166,5 +171,15 @@ Related Work
 
 [knitpat]: #knitpat-
 [knitpat-repo]: https://github.com/fossasia/knitpat
+[knitpat-waffle-badge]: https://badge.waffle.io/fossasia/knitpat.svg?label=ready&title=Ready "Stories in Ready"
+[knitpat-waffle]: http://waffle.io/fossasia/knitpat
+
+[ayab-apparat]: #ayab-apparat-
+[ayab-apparat-fork]: https://github.com/allyarnsarebeautiful/ayab-apparat
+[ayab-apparat-repo]: https://bitbucket.org/chris007de/ayab-apparat
+[ayab-apparat-waffle-badge]: https://badge.waffle.io/allyarnsarebeautiful/ayab-apparat.svg?label=ready&title=Ready "Stories in Ready"
+[ayab-apparat-waffle]: http://waffle.io/allyarnsarebeautiful/ayab-apparat
+
+
 
 [github-logo]: images/GitHub.png "View on Github"
