@@ -47,11 +47,13 @@ You can visit the [website][this-site],
 and [contribute [![Stories in Ready][knitting.fossasia.org-waffle-badge]][knitting.fossasia.org-waffle].
 
 
+Outdated Projects
+-----------------
 
+### knitpat [![View on Github][github-logo]][knitpat-repo]
 
-### knitpat [![View on Github][github-logo]][knitpad-repo]
-
-`knitpat` is the predecessor of the [`knittingpattern`][knittingpattern] library.
+`knitpat` contains a pattern definition format for knit work.
+It is the predecessor of the [`knittingpattern`][knittingpattern] library.
 
 Related Work
 ------------
