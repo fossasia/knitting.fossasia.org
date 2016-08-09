@@ -204,7 +204,7 @@ Contribute:
 
 
 
-How-to-Contribute
+How to Contribute
 -----------------
 
 You can have various reasons to contribute to the software.
@@ -223,6 +223,29 @@ You can add translations to these projects.
 
 
 
+### Improve Metrics
+
+Improving code metrics requires coding but not the understanding of how the code works.
+You learn how to set up this specific environment, fix some code and while doing this,
+you read it and get familiar with it.
+When your pull request is merged, you have contributed to the health of the project.
+
+Some of the repositories have code metrics like code coverage and code quality.
+They can be improved easily.
+E.g. in [this example][improve-metrics-example] you can find this error:
+
+     	        bbox = list(map(lambda f: f*zoom, layout.bounding_box))
+	    missing whitespace around arithmetic operator
+
+This can fix this by adding spaces around the operator. 
+
+
+
+
+
+
+
+
 
 
 
@@ -236,6 +259,8 @@ You can add translations to these projects.
 [mailing-list]: https://groups.google.com/forum/#!forum/knitapps
 [how-to-contribute]: #how-to-contribute
 [translate]: #translate
+[improve-metrics]: #improve-metrics
+[improve-metrics-example]: https://landscape.io/github/fossasia/knittingpattern/187/messages/style
 
 
 
