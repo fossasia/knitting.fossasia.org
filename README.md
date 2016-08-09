@@ -226,7 +226,7 @@ Consider trying out [documentation driven development][ddd],
 
 [FOSSASIA][fossasia] has a Slack to chat in the community.
 There is a [mailing list for knitting applications][mailing-list] such as [these listed][project-list].
-You can comment on issues and through these reache the developers directly.
+You can comment on issues and through these reach the developers directly.
 
 
 
