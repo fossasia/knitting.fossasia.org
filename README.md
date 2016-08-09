@@ -225,7 +225,7 @@ Consider trying out [documentation driven development][ddd],
 
 ### Get in Touch
 
-[FOSSASIA][fossasia] has a Slack to chat in the community.
+[FOSSASIA][fossasia] has a [Slack][slack] to chat in the community.
 There is a [mailing list for knitting applications][mailing-list] such as [these listed][project-list].
 You can comment on issues and through these reach the developers directly.
 
@@ -315,6 +315,7 @@ Contribute:
 [get-in-touch]: #get-in-touch
 [solve-issues]: #solve-issues
 [links]: #links
+[slack]: http://fossasia-slack.herokuapp.com/
 
 
 
