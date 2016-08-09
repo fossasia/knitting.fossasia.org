@@ -166,18 +166,19 @@ How to Contribute
 You can have various reasons to contribute to the software.
 This section aims to give you an overview over ways to get started.
 
-If you have any questions or like to get in touch, consider joining the [mailing list][mailing-list].
+If you have any questions or like to [get in touch][get-in-touch].
 
 ### Translate
 
-These projects target an international audience:
+A majority of people on earth do not speak English.
+By translating software, you make it accessible to thousands of people.
+
+You can add translations to these projects:
 
 - [kniteditor][kniteditor]
   - [blogpost about localization implementation](http://blog.fossasia.org/awesome-kivy-revelations/)
 - [knitweb][knitweb]
   - [blogpost about localization](http://blog.fossasia.org/knitweb-localization/)
-
-You can add translations to these projects.
 
 
 
@@ -201,7 +202,12 @@ This can fix this by adding spaces around the operator.
 
 ### Solve Issues
 
-All the projects have "issues" attached to them. They can be found in the issue tracker of github.
+All the projects have "issues" attached to them.
+They show bugs and feature requests.
+A solved issue improves the life of somebody on earth.
+When solving the issue, you are introduced to the development process of the project and learn how to adapt the project to your needs.
+
+Issues can be found in the issue tracker of github.
 You can find them through the "Repository" links of the [projects][project-list] or by clicking these badges:  
 [![kniteditor-waffle-badge]][kniteditor-waffle]  
 If you find an issue which interests you, please comment that you would like to work on it.
@@ -219,7 +225,7 @@ Consider trying out [documentation driven development][ddd],
 ### Get in Touch
 
 [FOSSASIA][fossasia] has a Slack to chat in the community.
-There is a [mailing list for knitting applications][mailing list] such as [these listed][project-list].
+There is a [mailing list for knitting applications][mailing-list] such as [these listed][project-list].
 You can comment on issues and through these reache the developers directly.
 
 
