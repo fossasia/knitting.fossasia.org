@@ -2,10 +2,10 @@ Knitting Projects
 =================
 
 [FOSSASIA][fossasia] has several open-source knitting projects.
-Here, you can an overview over these projects.
-You can get started developing on the projects or just check them out and install them.
-We also have a [mailing list][mailing-list] which you can join to discuss the projects.
-If you are interested in related work, skip to the bottom.
+Here, you find an overview over [these projects][project-list].
+You can [get started developing][how-to-contribute] on the projects or just check them out and install them.
+In case you are interested to connect with people, you can [get in touch with us :)][get-in-touch].
+If you are interested in related work, [look here][related-work].
 
 - [List of Knitting Projects][project-list]
   - [kniteditor][kniteditor]
@@ -226,10 +226,10 @@ Consider trying out [documentation driven development][ddd],
 ### Get in Touch
 
 [FOSSASIA][fossasia] has a [Slack][slack] to chat in the community.
-There is a [mailing list for knitting applications][mailing-list] such as [these listed][project-list].
+There is a [mailing list for knitting applications][mailing-list] such as [these listed][project-list]. You can alse join the [FOSSASIA mailing list][fossasia-mailing-list].
 You can comment on issues and through these reach the developers directly.
 
-
+For a broad overview on how to join FOSSASIA, see the [FOSSASIA labs][labs].
 
 Related Work
 ------------
@@ -316,6 +316,8 @@ Contribute:
 [solve-issues]: #solve-issues
 [links]: #links
 [slack]: http://fossasia-slack.herokuapp.com/
+[fossasia-mailing-list]: https://groups.google.com/forum/#!forum/fossasia
+[labs]: http://labs.fossasia.org/
 
 
 
