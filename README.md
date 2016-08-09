@@ -298,7 +298,7 @@ Contribute:
 
 
 
-[top]: #fossasia-knitting-projects
+[top]: #knitting-projects
 [project-list]: #list-of-knitting-projects
 [outdated-projects]: #outdated-projects
 [this-site]: https://knitting.fossasia.org
