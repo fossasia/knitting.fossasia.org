@@ -178,9 +178,10 @@ By translating software, you make it accessible to thousands of people.
 You can add translations to these projects:
 
 - [kniteditor][kniteditor]
-  - [blogpost about localization implementation](http://blog.fossasia.org/awesome-kivy-revelations/)
+  - [Blogpost about localization implementation](http://blog.fossasia.org/awesome-kivy-revelations/)
+  - [A video on how to translate][kniteditor-translate-video]
 - [knitweb][knitweb]
-  - [blogpost about localization](http://blog.fossasia.org/knitweb-localization/)
+  - [Blogpost about localization](http://blog.fossasia.org/knitweb-localization/)
 
 
 
@@ -348,6 +349,7 @@ Contribute:
 [kniteditor-landscape-badge]: https://landscape.io/github/fossasia/kniteditor/master/landscape.svg?style=flat "Code Health"
 
 [kniteditor-releases]: https://github.com/fossasia/kniteditor/releases
+[kniteditor-translate-video]: https://www.youtube.com/watch?v=9M4y_dUpoeg
 
 
 
