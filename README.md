@@ -297,7 +297,8 @@ Contribute:
 [ddd]: http://niccokunzmann.github.io/blog/2016-06-10/Documentation-Driven-Development
 [test-first]: http://www.extremeprogramming.org/rules/testfirst.html
 [tdd]: https://en.wikipedia.org/wiki/Test-driven_development
-[get-in-touch]: get-in-touch
+[get-in-touch]: #get-in-touch
+[solve-issues]: #solve-issues
 
 
 
