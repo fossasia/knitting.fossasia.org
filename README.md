@@ -229,6 +229,8 @@ Consider trying out [documentation driven development][ddd],
 [FOSSASIA][fossasia] has a [Slack][slack] to chat in the community.
 There is a [mailing list for knitting applications][mailing-list] such as [these listed][project-list]. You can alse join the [FOSSASIA mailing list][fossasia-mailing-list].
 You can comment on issues and through these reach the developers directly.
+We have a Gitter chat which you can join: [![Join the chat at https://gitter.im/fashiontec/knitapps](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/fashiontec/knitapps?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 
 For a broad overview on how to join FOSSASIA, see the [FOSSASIA labs][labs].
 
