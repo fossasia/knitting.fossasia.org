@@ -23,10 +23,10 @@
 <a id="knitting-projects" class="anchor" href="#knitting-projects" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Knitting Projects</h1>
 
 <p><a href="https://fossasia.org">FOSSASIA</a> has several open-source knitting projects.
-Here, you can an overview over these projects.
-You can get started developing on the projects or just check them out and install them.
-We also have a <a href="https://groups.google.com/forum/#!forum/knitapps">mailing list</a> which you can join to discuss the projects.
-If you are interested in related work, skip to the bottom.</p>
+Here, you find an overview over <a href="#list-of-knitting-projects">these projects</a>.
+You can <a href="#how-to-contribute">get started developing</a> on the projects or just check them out and install them.
+In case you are interested to connect with people, you can <a href="#get-in-touch">get in touch with us :)</a>.
+If you are interested in related work, <a href="#related-work">look here</a>.</p>
 
 <ul>
 <li>
@@ -44,11 +44,12 @@ If you are interested in related work, skip to the bottom.</p>
 </ul>
 </li>
 <li>
-<a href="#outdated-projects">Outdated Projects</a>
+<a href="#how-to-contribute">How to Contribute</a>
 
 <ul>
-<li><a href="#knitpat-">knitpat</a></li>
-<li><a href="#knitserver-">knitapps</a></li>
+<li><a href="#translate">Translate</a></li>
+<li><a href="#solve-issues">Solve Issues</a></li>
+<li><a href="#get-in-touch">Get in Touch</a></li>
 </ul>
 </li>
 <li>
@@ -56,13 +57,15 @@ If you are interested in related work, skip to the bottom.</p>
 
 <ul>
 <li><a href="#ayab-apparat-">ayab-apparat</a></li>
+<li><a href="#links">Links</a></li>
 </ul>
 </li>
 <li>
-<a href="#how-to-contribute">How to Contribute</a>
+<a href="#outdated-projects">Outdated Projects</a>
 
 <ul>
-<li><a href="#translate">Translate</a></li>
+<li><a href="#knitpat-">knitpat</a></li>
+<li><a href="#knitserver-">knitapps</a></li>
 </ul>
 </li>
 </ul>
@@ -141,8 +144,9 @@ It can be used standalone without these other projects.</p>
 <a id="knittingfossasiaorg-" class="anchor" href="#knittingfossasiaorg-" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>knitting.fossasia.org <a href="https://github.com/fossasia/knitting.fossasia.org"><img src="images/GitHub.png" alt="View on Github" title="View on Github"></a>
 </h3>
 
-<p>This is this overview site over the different knitting projects. 
-You can visit the <a href="https://knitting.fossasia.org">website</a>, <a href="https://github.com/fossasia/knitting.fossasia.org/edit/gh-pages/README.md">add new entries</a>.</p>
+<p>This is this overview site over the different knitting projects and aims at introducing new people to the community.
+You can visit the <a href="https://knitting.fossasia.org">website</a> and <a href="https://github.com/fossasia/knitting.fossasia.org/edit/gh-pages/README.md">add new entries</a>
+for <a href="#list-of-knitting-projects">projects</a> and <a href="#related-work">related work</a>.</p>
 
 <p>Contribute:
 <a href="https://github.com/fossasia/knitting.fossasia.org">Repository</a>
@@ -202,6 +206,116 @@ Knitserver is designed to interact with <a href="#knitweb-">Knitweb</a>.</p>
 <a href="http://waffle.io/fossasia/knitserver"><img src="https://badge.waffle.io/fossasia/knitserver.svg?label=ready&amp;title=Ready" alt="Issues Ready to Work on" title="Stories in Ready"></a></p>
 
 <h2>
+<a id="how-to-contribute" class="anchor" href="#how-to-contribute" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>How to Contribute</h2>
+
+<p>You can have various reasons to contribute to the software.
+This section aims to give you an overview over ways to get started.</p>
+
+<p>If you have any questions or like to <a href="#get-in-touch">get in touch</a>.</p>
+
+<h3>
+<a id="translate" class="anchor" href="#translate" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Translate</h3>
+
+<p>A majority of people on earth do not speak English.
+By translating software, you make it accessible to thousands of people.</p>
+
+<p>You can add translations to these projects:</p>
+
+<ul>
+<li>
+<a href="#kniteditor-">kniteditor</a>
+
+<ul>
+<li><a href="http://blog.fossasia.org/awesome-kivy-revelations/">blogpost about localization implementation</a></li>
+</ul>
+</li>
+<li>
+<a href="#knitweb-">knitweb</a>
+
+<ul>
+<li><a href="http://blog.fossasia.org/knitweb-localization/">blogpost about localization</a></li>
+</ul>
+</li>
+</ul>
+
+<h3>
+<a id="improve-metrics" class="anchor" href="#improve-metrics" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Improve Metrics</h3>
+
+<p>Improving code metrics requires coding but not the understanding of how the code works.
+You learn how to set up this specific environment, fix some code and while doing this,
+you read it and get familiar with it.
+When your pull request is merged, you have contributed to the health of the project.</p>
+
+<p>Some of the repositories have code metrics like code coverage and code quality.
+They can be improved easily.
+E.g. in <a href="https://landscape.io/github/fossasia/knittingpattern/187/messages/style">this example</a> you can find this error:</p>
+
+<pre><code>            bbox = list(map(lambda f: f*zoom, layout.bounding_box))
+    missing whitespace around arithmetic operator
+</code></pre>
+
+<p>This can fix this by adding spaces around the operator. </p>
+
+<h3>
+<a id="solve-issues" class="anchor" href="#solve-issues" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Solve Issues</h3>
+
+<p>All the projects have "issues" attached to them.
+They show bugs and feature requests.
+A solved issue improves the life of somebody on earth.
+When solving the issue, you are introduced to the development process of the project and learn how to adapt the project to your needs.</p>
+
+<p>Issues can be found in the issue tracker of github.
+You can find them through the "Repository" links of the <a href="#list-of-knitting-projects">projects</a> or by clicking these badges:<br>
+<a href="http://waffle.io/fossasia/kniteditor"><img src="https://badge.waffle.io/fossasia/kniteditor.svg?label=ready&amp;title=Ready" alt="kniteditor-waffle-badge" title="Issues Ready to Work on"></a><br>
+If you find an issue which interests you, please comment that you would like to work on it.
+This way, you get help and it is not done twice.</p>
+
+<p>The projects have tests and documentation:<br>
+<a href="https://codeclimate.com/github/fossasia/knittingpattern/coverage"><img src="https://codeclimate.com/github/fossasia/knittingpattern/badges/coverage.svg" alt="Test Coverage" title="Test Coverage"></a>
+<a href="https://knittingpattern.readthedocs.org"><img src="https://readthedocs.org/projects/knittingpattern/badge/?version=latest" alt="Read the Documentation" title="Read the Documentation"></a><br>
+Code should be documented and tested.
+Consider trying out <a href="http://niccokunzmann.github.io/blog/2016-06-10/Documentation-Driven-Development">documentation driven development</a>,
+<a href="http://www.extremeprogramming.org/rules/testfirst.html">Test-First</a> and <a href="https://en.wikipedia.org/wiki/Test-driven_development">test-driven development</a>.</p>
+
+<h3>
+<a id="get-in-touch" class="anchor" href="#get-in-touch" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Get in Touch</h3>
+
+<p><a href="https://fossasia.org">FOSSASIA</a> has a <a href="http://fossasia-slack.herokuapp.com/">Slack</a> to chat in the community.
+There is a <a href="https://groups.google.com/forum/#!forum/knitapps">mailing list for knitting applications</a> such as <a href="#list-of-knitting-projects">these listed</a>. You can alse join the <a href="https://groups.google.com/forum/#!forum/fossasia">FOSSASIA mailing list</a>.
+You can comment on issues and through these reach the developers directly.</p>
+
+<p>For a broad overview on how to join FOSSASIA, see the <a href="http://labs.fossasia.org/">FOSSASIA labs</a>.</p>
+
+<h2>
+<a id="related-work" class="anchor" href="#related-work" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Related Work</h2>
+
+<p>This section contains links and related projets and work in the field of knitting.
+Additionally, other overview sites are listed here.</p>
+
+<h3>
+<a id="ayab-apparat-" class="anchor" href="#ayab-apparat-" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>ayab-apparat <a href="https://bitbucket.org/chris007de/ayab-apparat"><img src="images/GitHub.png" alt="View on Github" title="View on Github"></a>
+</h3>
+
+<p>This Software is a predecessor of <a href="#kniteditor-">the Knit Editor</a>.
+It is written in Python and Qt.
+<a href="http://ayab-knitting.com/">AYAB</a> maintains this project.
+The 2016 <a href="https://github.com/allyarnsarebeautiful/ayab-desktop">Google Summer of Code Project</a> forked this repository and added the issues for the <a href="#kniteditor-">kniteditor</a>, <a href="#knittingpattern-">knittingpattern</a> and <a href="#AYABInterface-">AYABInterface</a>.</p>
+
+<p>Contribute:
+<a href="https://bitbucket.org/chris007de/ayab-apparat">Repository</a></p>
+
+<h3>
+<a id="links" class="anchor" href="#links" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Links</h3>
+
+<p>These are links to other projects and overview sites.
+The objective is to ease exploring the network of people and projects.</p>
+
+<ul>
+<li><a href="https://github.com/AllYarnsAreBeautiful/ayab-desktop/wiki/Community-Connections">Community Connections</a></li>
+<li><a href="http://blog.fossasia.org/designaknit/">Blogpost about Designaknit</a></li>
+</ul>
+
+<h2>
 <a id="outdated-projects" class="anchor" href="#outdated-projects" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Outdated Projects</h2>
 
 <p>These projects are a bit older, obsoleted or not maintained any more.</p>
@@ -226,54 +340,6 @@ It is the predecessor of the <a href="#knittingpattern-"><code>knittingpattern</
 <p>Contribute:
 <a href="https://github.com/fossasia/knitapps">Repository</a>
 <a href="http://waffle.io/fossasia/knitapps"><img src="https://badge.waffle.io/fossasia/knitapps.svg?label=ready&amp;title=Ready" alt="Issues Ready to Work on" title="Stories in Ready"></a></p>
-
-<h2>
-<a id="related-work" class="anchor" href="#related-work" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Related Work</h2>
-
-<p>This section contains links and related projets and work in the field of knitting.
-Additionally, other overview sites are listed here.</p>
-
-<h3>
-<a id="ayab-apparat-" class="anchor" href="#ayab-apparat-" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>ayab-apparat <a href="https://bitbucket.org/chris007de/ayab-apparat"><img src="images/GitHub.png" alt="View on Github" title="View on Github"></a>
-</h3>
-
-<p>This Software is a predecessor of <a href="#kniteditor-">the Knit Editor</a>.
-It is written in Python and Qt.
-<a href="http://ayab-knitting.com/">AYAB</a> maintains this project.
-The 2016 <a href="https://github.com/allyarnsarebeautiful/ayab-desktop">Google Summer of Code Project</a> forked this repository and added the issues for the <a href="#kniteditor-">kniteditor</a>, <a href="#knittingpattern-">knittingpattern</a> and <a href="#AYABInterface-">AYABInterface</a>.</p>
-
-<p>Contribute:
-<a href="https://bitbucket.org/chris007de/ayab-apparat">Repository</a></p>
-
-<h2>
-<a id="how-to-contribute" class="anchor" href="#how-to-contribute" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>How-to-Contribute</h2>
-
-<p>You can have various reasons to contribute to the software.
-This section aims to give you an overview over ways to get started.</p>
-
-<h3>
-<a id="translate" class="anchor" href="#translate" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Translate</h3>
-
-<p>These projects target an international audience:</p>
-
-<ul>
-<li>
-<a href="#kniteditor-">kniteditor</a>
-
-<ul>
-<li><a href="http://blog.fossasia.org/awesome-kivy-revelations/">blogpost about localization implementation</a></li>
-</ul>
-</li>
-<li>
-<a href="#knitweb-">knitweb</a>
-
-<ul>
-<li><a href="http://blog.fossasia.org/knitweb-localization/">blogpost about localization</a></li>
-</ul>
-</li>
-</ul>
-
-<p>You can add translations to these projects.</p>
 
       <footer class="site-footer">
         <span class="site-footer-owner"><a href="https://github.com/fossasia/knitting.fossasia.org">Knitting Projects</a> is maintained by <a href="https://github.com/fossasia">fossasia</a>.</span>
