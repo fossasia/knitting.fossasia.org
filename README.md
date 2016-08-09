@@ -25,7 +25,7 @@ If you are interested in related work, [look here][related-work].
   - [Links][links]
 - [Outdated Projects][outdated-projects]
   - [knitpat][knitpat]
-  - [knitapps][knitserver]
+  - [knitapps][knitapps]
 
 List of Knitting Projects
 -------------------------
