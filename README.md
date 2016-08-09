@@ -99,8 +99,9 @@ Contribute:
 
 ### knitting.fossasia.org [![View on Github][github-logo]][knitting.fossasia.org-repo]
 
-This is this overview site over the different knitting projects. 
-You can visit the [website][this-site], [add new entries][knitting.fossasia.org-edit].
+This is this overview site over the different knitting projects and aims at introducing new people to the community.
+You can visit the [website][this-site] and [add new entries][knitting.fossasia.org-edit]
+for [projects][project-list] and [related work][related-work].
 
 Contribute:
 [Repository][knitting.fossasia.org-repo]
