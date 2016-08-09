@@ -16,13 +16,15 @@ If you are interested in related work, skip to the bottom.
   - [knitweb][knitweb]
   - [knitlib][knitlib]
   - [knitserver][knitserver]
+- [How to Contribute][how-to-contribute]
+  - [Translate][translate]
+  - [Solve Issues][solve-issues]
+  - [Get in Touch][get-in-touch]
+- [Related Work][related-work]
+  - [ayab-apparat][ayab-apparat]
 - [Outdated Projects][outdated-projects]
   - [knitpat][knitpat]
   - [knitapps][knitserver]
-- [Related Work][related-work]
-  - [ayab-apparat][ayab-apparat]
-- [How to Contribute][how-to-contribute]
-  - [Translate][translate]
 
 List of Knitting Projects
 -------------------------
@@ -158,57 +160,13 @@ Contribute:
 
 
 
-Outdated Projects
------------------
-
-These projects are a bit older, obsoleted or not maintained any more.
-
-### knitpat [![View on Github][github-logo]][knitpat-repo]
-
-`knitpat` contains a pattern definition format for knit work.
-It is the predecessor of the [`knittingpattern`][knittingpattern] library.
-
-Contribute:
-[Repository][knitpat-repo]
-[![Issues Ready to Work on][knitpat-waffle-badge]][knitpat-waffle]
-
-
-
-### knitapps [![View on Github][github-logo]][knitapps-repo]
-
-An older version of [this overview site][top].
-
-Contribute:
-[Repository][knitapps-repo]
-[![Issues Ready to Work on][knitapps-waffle-badge]][knitapps-waffle]
-
-
-
-Related Work
-------------
-
-This section contains links and related projets and work in the field of knitting.
-Additionally, other overview sites are listed here.
-
-
-
-### ayab-apparat [![View on Github][github-logo]][ayab-apparat-repo]
-
-This Software is a predecessor of [the Knit Editor][kniteditor].
-It is written in Python and Qt.
-[AYAB][ayab] maintains this project.
-The 2016 [Google Summer of Code Project][ayab-apparat-fork] forked this repository and added the issues for the [kniteditor][kniteditor], [knittingpattern][knittingpattern] and [AYABInterface][AYABInterface].
-
-Contribute:
-[Repository][ayab-apparat-repo]
-
-
-
 How to Contribute
 -----------------
 
 You can have various reasons to contribute to the software.
 This section aims to give you an overview over ways to get started.
+
+If you have any questions or like to get in touch, consider joining the [mailing list][mailing-list].
 
 ### Translate
 
@@ -241,6 +199,81 @@ This can fix this by adding spaces around the operator.
 
 
 
+### Solve Issues
+
+All the projects have "issues" attached to them. They can be found in the issue tracker of github.
+You can find them through the "Repository" links of the [projects][project-list] or by clicking these badges:  
+[![kniteditor-waffle-badge]][kniteditor-waffle]  
+If you find an issue which interests you, please comment that you would like to work on it.
+This way, you get help and it is not done twice.
+
+The projects have tests and documentation:  
+[![Test Coverage][knittingpattern-test-coverage-badge]][knittingpattern-test-coverage]
+[![Read the Documentation][knittingpattern-rtd-badge]][knittingpattern-rtd]  
+Code should be documented and tested.
+Consider trying out [documentation driven development][ddd],
+[Test-First][test-first] and [test-driven development][tdd].
+
+
+
+### Get in Touch
+
+[FOSSASIA][fossasia] has a Slack to chat in the community.
+There is a [mailing list for knitting applications][mailing list] such as [these listed][project-list].
+You can comment on issues and through these reache the developers directly.
+
+
+
+Related Work
+------------
+
+This section contains links and related projets and work in the field of knitting.
+Additionally, other overview sites are listed here.
+
+
+
+### ayab-apparat [![View on Github][github-logo]][ayab-apparat-repo]
+
+This Software is a predecessor of [the Knit Editor][kniteditor].
+It is written in Python and Qt.
+[AYAB][ayab] maintains this project.
+The 2016 [Google Summer of Code Project][ayab-apparat-fork] forked this repository and added the issues for the [kniteditor][kniteditor], [knittingpattern][knittingpattern] and [AYABInterface][AYABInterface].
+
+Contribute:
+[Repository][ayab-apparat-repo]
+
+
+
+Outdated Projects
+-----------------
+
+These projects are a bit older, obsoleted or not maintained any more.
+
+### knitpat [![View on Github][github-logo]][knitpat-repo]
+
+`knitpat` contains a pattern definition format for knit work.
+It is the predecessor of the [`knittingpattern`][knittingpattern] library.
+
+Contribute:
+[Repository][knitpat-repo]
+[![Issues Ready to Work on][knitpat-waffle-badge]][knitpat-waffle]
+
+
+
+### knitapps [![View on Github][github-logo]][knitapps-repo]
+
+An older version of [this overview site][top].
+
+Contribute:
+[Repository][knitapps-repo]
+[![Issues Ready to Work on][knitapps-waffle-badge]][knitapps-waffle]
+
+
+
+
+
+
+
 
 
 
@@ -261,6 +294,10 @@ This can fix this by adding spaces around the operator.
 [translate]: #translate
 [improve-metrics]: #improve-metrics
 [improve-metrics-example]: https://landscape.io/github/fossasia/knittingpattern/187/messages/style
+[ddd]: http://niccokunzmann.github.io/blog/2016-06-10/Documentation-Driven-Development
+[test-first]: http://www.extremeprogramming.org/rules/testfirst.html
+[tdd]: https://en.wikipedia.org/wiki/Test-driven_development
+[get-in-touch]: get-in-touch
 
 
 
