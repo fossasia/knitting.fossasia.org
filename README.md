@@ -22,6 +22,7 @@ If you are interested in related work, skip to the bottom.
   - [Get in Touch][get-in-touch]
 - [Related Work][related-work]
   - [ayab-apparat][ayab-apparat]
+  - [Links][links]
 - [Outdated Projects][outdated-projects]
   - [knitpat][knitpat]
   - [knitapps][knitserver]
@@ -250,6 +251,14 @@ Contribute:
 
 
 
+### Links
+
+These are links to other projects and overview sites.
+The objective is to ease exploring the network of people and projects.
+
+- [Community Connections](https://github.com/AllYarnsAreBeautiful/ayab-desktop/wiki/Community-Connections)
+- [Blogpost about Designaknit](http://blog.fossasia.org/designaknit/)
+
 Outdated Projects
 -----------------
 
@@ -305,6 +314,7 @@ Contribute:
 [tdd]: https://en.wikipedia.org/wiki/Test-driven_development
 [get-in-touch]: #get-in-touch
 [solve-issues]: #solve-issues
+[links]: #links
 
 
 
