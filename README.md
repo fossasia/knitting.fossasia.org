@@ -178,8 +178,8 @@ By translating software, you make it accessible to thousands of people.
 You can add translations to these projects:
 
 - [kniteditor][kniteditor]
-  - [Blogpost about localization implementation](http://blog.fossasia.org/awesome-kivy-revelations/)
   - [A video on how to translate][kniteditor-translate-video]
+  - [Blogpost about localization implementation](http://blog.fossasia.org/awesome-kivy-revelations/)
 - [knitweb][knitweb]
   - [Blogpost about localization](http://blog.fossasia.org/knitweb-localization/)
 
