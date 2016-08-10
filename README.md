@@ -212,7 +212,8 @@ When solving the issue, you are introduced to the development process of the pro
 
 Issues can be found in the issue tracker of github.
 You can find them through the "Repository" links of the [projects][project-list] or by clicking these badges:  
-[![kniteditor-waffle-badge]][kniteditor-waffle]  
+[![knitting.fossasia.org-waffle-badge]][knitting.fossasia.org-waffle]  
+The badge above links to the overview of all listed projects.
 If you find an issue which interests you, please comment that you would like to work on it.
 This way, you get help and it is not done twice.
 
