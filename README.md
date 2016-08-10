@@ -216,7 +216,11 @@ You can find them through the "Repository" links of the [projects][project-list]
 The badge above links to the overview of all listed projects.
 If you find an issue which interests you, please comment that you would like to work on it.
 This way, you get help and it is not done twice.
+
 Issues can be `easy`. You may pick those first to get into the project. 
+Issues can have multiple bullet points or check boxes.
+You do not need to solve all of them.
+You can choose one and solve it.
 
 The projects have tests and documentation:  
 [![Test Coverage][knittingpattern-test-coverage-badge]][knittingpattern-test-coverage]
