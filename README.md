@@ -100,8 +100,11 @@ Contribute:
 ### knitting.fossasia.org [![View on Github][github-logo]][knitting.fossasia.org-repo]
 
 This is this overview site over the different knitting projects and aims at introducing new people to the community.
-You can visit the [website][this-site] and [add new entries][knitting.fossasia.org-edit]
-for [projects][project-list] and [related work][related-work].
+You can 
+
+- visit the [website][this-site]
+- [add new entries][knitting.fossasia.org-edit] for [projects][project-list] and [related work][related-work]
+- read a [blog post about this site][knitting.fossasia.org-blogpost].
 
 Contribute:
 [Repository][knitting.fossasia.org-repo]
@@ -414,7 +417,7 @@ Contribute:
 [knitting.fossasia.org-waffle]: http://waffle.io/fossasia/knitting.fossasia.org
 [knitting.fossasia.org-waffle-badge]: https://badge.waffle.io/fossasia/knitting.fossasia.org.svg?label=ready&title=Ready "Stories in Ready"
 [knitting.fossasia.org-edit]: https://github.com/fossasia/knitting.fossasia.org/edit/gh-pages/README.md
-
+[knitting.fossasia.org-blogpost]: http://blog.fossasia.org/new-landing-page-for-fossasia-knitting-projects/
 
 
 [knitweb]: #knitweb-
