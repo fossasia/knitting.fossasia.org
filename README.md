@@ -42,6 +42,7 @@ This kniteditor is developed together with [All Yarns Are Beautiful][ayab].
 You can [download the releases][kniteditor-releases] and install them.
 
 Contribute:
+[Tutorial Videos][tutorial-videos],
 [Repository][kniteditor-repo]
 [![Issues Ready to Work on][kniteditor-waffle-badge]][kniteditor-waffle]
 [![Read the Documentation][kniteditor-rtd-badge]][kniteditor-rtd]
@@ -62,6 +63,7 @@ The `knittingpattern` is a Python library for an exchange format for knit work.
 It allows specifying how to knit a particular piece of work.
 
 Contribute:
+[Tutorial Videos][tutorial-videos],
 [Repository][knittingpattern-repo]
 [![Issues Ready to Work on][knittingpattern-waffle-badge]][knittingpattern-waffle]
 [![Read the Documentation][knittingpattern-rtd-badge]][knittingpattern-rtd]
@@ -83,6 +85,7 @@ convert [knittingpatterns][knittingpattern] into machine instructions.
 It can be used standalone without these other projects.
 
 Contribute:
+[Tutorial Videos][tutorial-videos],
 [Repository][AYABInterface-repo]
 [![Issues Ready to Work on][AYABInterface-waffle-badge]][AYABInterface-waffle]
 [![Read the Documentation][AYABInterface-rtd-badge]][AYABInterface-rtd]
@@ -331,6 +334,7 @@ Contribute:
 [slack]: http://fossasia-slack.herokuapp.com/
 [fossasia-mailing-list]: https://groups.google.com/forum/#!forum/fossasia
 [labs]: http://labs.fossasia.org/
+[tutorial-videos]: https://www.youtube.com/playlist?list=PL_bQhtrnWFA8skye4GpQ2Y8kEHxLwQKHY
 
 
 
