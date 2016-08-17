@@ -240,11 +240,15 @@ Consider trying out [documentation driven development][ddd],
 
 ### Get in Touch
 
-[FOSSASIA][fossasia] has a [Slack][slack] to chat in the community.
-There is a [mailing list for knitting applications][mailing-list] such as [these listed][project-list]. You can alse join the [FOSSASIA mailing list][fossasia-mailing-list].
-You can comment on issues and through these reach the developers directly.
-We have a Gitter chat which you can join: [![Join the chat at https://gitter.im/fashiontec/knitapps](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/fashiontec/knitapps?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[FOSSASIA][fossasia] has a [Slack][slack] to chat in the community. You can use the main channel or **#knitting**.
 
+You can contact me directly. I started this site. You can find me on [github][github-niccokunzmann] and [Slack][slack] under the name "niccokunzmann".
+
+There is a [mailing list for knitting applications][mailing-list] such as [these listed][project-list]. You can also join the [FOSSASIA mailing list][fossasia-mailing-list].
+
+You can comment on issues and through these reach the developers directly.
+
+We have a Gitter chat which you can join: [![Join the chat at https://gitter.im/fashiontec/knitapps](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/fashiontec/knitapps?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 For a broad overview on how to join FOSSASIA, see the [FOSSASIA labs][labs].
 
@@ -336,6 +340,7 @@ Contribute:
 [fossasia-mailing-list]: https://groups.google.com/forum/#!forum/fossasia
 [labs]: http://labs.fossasia.org/
 [tutorial-videos]: https://www.youtube.com/playlist?list=PL_bQhtrnWFA8skye4GpQ2Y8kEHxLwQKHY
+[github-niccokunzmann]: https://github.com/niccokunzmann
 
 
 
