@@ -174,7 +174,8 @@ How to Contribute
 You can have various reasons to contribute to the software.
 This section aims to give you an overview over ways to get started.
 
-If you have any questions or like to [get in touch][get-in-touch].
+If you like to watch a video, you can view the [tutorial videos][tutorial-videos] on getting started with development.
+If you have any questions, please [get in touch][get-in-touch] :)
 
 ### Translate
 
