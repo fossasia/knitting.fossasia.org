@@ -196,7 +196,9 @@ If you have any questions, please [get in touch][get-in-touch] :)
 
 ### For Beginners
 
-All these projects are hosted on github. They use git as a version control system. in order to contribute, please first get familiar with git and github. You can use do tutorials for this:
+All these projects are hosted on github. They use git to [control every version of the software][vcs].
+In order to contribute, please first get to know git and github.
+Therefore, you can do tutorials:
 
 - [git guide][git-guide] in several languages
 - [try github][try-github]
@@ -370,6 +372,7 @@ An older version of [this overview site][top].
 [beginners]: #for-beginners
 [git-guide]: https://rogerdudler.github.io/git-guide/index.html
 [try-github]: https://try.github.io
+[vcs]: https://en.wikipedia.org/wiki/Version_control
 
 
 [kniteditor]: #kniteditor-
