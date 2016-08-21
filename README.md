@@ -41,8 +41,8 @@ and knitting it with several knitting machines.
 This kniteditor is developed together with [All Yarns Are Beautiful][ayab].
 You can [download the releases][kniteditor-releases] and install them.You can
 
-- read the [blog post about this project][http://blog.fossasia.org/knit-editor-package-overview/].
-- check out the [libraries][https://pypi.python.org/pypi/kniteditor].
+- read the [blog post about this project][kniteditor-blog-overview].
+- check out the [libraries][kniteditor-libraries].
 
 Contribute:
 [Tutorial Videos][tutorial-videos],
@@ -65,8 +65,8 @@ Contribute:
 The `knittingpattern` is a Python library for an exchange format for knit work.
 It allows specifying how to knit a particular piece of work. You can
 
-- read the [blog post about this project][http://blog.fossasia.org/knitting-pattern-conversion/].
-- check out the [libraries][https://pypi.python.org/pypi/knittingpattern].
+- read the [blog post about this project][knittingpattern-blog-conversion].
+- check out the [libraries][knittingpattern-libraries].
 
 Contribute:
 [Tutorial Videos][tutorial-videos],
@@ -90,9 +90,9 @@ The `AYABInterface` is used by the [Knit Editor][kniteditor] to
 convert [knittingpatterns][knittingpattern] into machine instructions.
 It can be used standalone without these other projects.You can
 
-- read the [blog post about this project][http://blog.fossasia.org/ayabinterface-a-python-module-for-the-ayab-shield/].
-- read about the [The new AYABInterface module][http://blog.fossasia.org/the-new-ayabinterface-module/]
-- check out the [libraries] [https://pypi.python.org/pypi/AYABInterface]
+- read the [blog post about this project][AYABInterface-blog].
+- read about the [The new AYABInterface module][AYABInterface-blog-new-module].
+- check out the [libraries][AYABInterface-libraries].
 
 Contribute:
 [Tutorial Videos][tutorial-videos],
@@ -115,8 +115,8 @@ Contribute:
 This is this overview site over the different knitting projects and aims at introducing new people to the community.
 You can 
 
-- visit the [website][this-site]
-- [add new entries][knitting.fossasia.org-edit] for [projects][project-list] and [related work][related-work]
+- visit the [website][this-site].
+- [add new entries][knitting.fossasia.org-edit] for [projects][project-list] and [related work][related-work].
 - read a [blog post about this site][knitting.fossasia.org-blogpost].
 
 Contribute:
@@ -133,7 +133,7 @@ Plastic can be easily printed out on 3D printers.
 This project implements the idea to code a circular knitting machine. 
 As inexpensive small PCs components like the Rapsberry PI and Arduinos become increasingly powerful there is even an option to include them as optional components in such a 3D printed knitting machine. You can
 
-- visit the [website for this project][https://fashiontec.wordpress.com/]
+- visit the [website for this project][circle-knitting-website].
 
 Contribute:
 [Repository][circle-knitting-repo]
@@ -146,8 +146,8 @@ Contribute:
 [`knitweb`][knitweb-repo] is an app frontend and backend that works together with the
 [`knitlib`][knitserver] server and uses the [`knitpat`][knitpat] format.You can
 
-- read about the [Functionality of knitWeb Application][http://blog.fossasia.org/author/sameera1234/]
-- read about the [KnitWeb Localization][http://blog.fossasia.org/knitweb-localization/]
+- read about the [Functionality of knitWeb Application][knitweb-blog-functionality].
+- read about the [KnitWeb Localization][knitweb-blog-localization].
 
 Contribute:
 [Repository][knitweb-repo]
@@ -164,9 +164,9 @@ knitting jobs and knitting patterns. The software is based on Python.
 There also is a Web API.
 Among the primary tasks is to develop plugins based on this solution to add support for more machines.You can
 
-- read about the [Exception handler in KnitLib][http://blog.fossasia.org/exception-handler-in-knitlib/]
-- read about the [Knitting machine abstractions for Knitlib][http://blog.fossasia.org/knitting-machine-abstractions-for-knitlib/]
-- read about the [Importance of the test cases for the KnitLib][http://blog.fossasia.org/importance-of-the-test-cases-for-the-knitlib/]
+- read about the [Exception handler in KnitLib][knitlib-blog-exception-handler].
+- read about the [Knitting machine abstractions for Knitlib][[knitlib-blog-machine-abstraction].
+- read about the [Importance of the test cases for the KnitLib][knitlib-blog-importance-testcases].
 
 Contribute:
 [Repository][knitlib-repo]
@@ -385,9 +385,10 @@ Contribute:
 [kniteditor-rtd-badge]: https://readthedocs.org/projects/kniteditor/badge/?version=latest "Read the Documentation"
 [kniteditor-landscape]: https://landscape.io/github/fossasia/kniteditor/master
 [kniteditor-landscape-badge]: https://landscape.io/github/fossasia/kniteditor/master/landscape.svg?style=flat "Code Health"
-
 [kniteditor-releases]: https://github.com/fossasia/kniteditor/releases
 [kniteditor-translate-video]: https://www.youtube.com/watch?v=9M4y_dUpoeg
+[kniteditor-blog-overview]: http://blog.fossasia.org/knit-editor-package-overview/
+[kniteditor-libraries]: https://pypi.python.org/pypi/kniteditor
 
 
 
@@ -413,7 +414,8 @@ Contribute:
 [knittingpattern-rtd-badge]: https://readthedocs.org/projects/knittingpattern/badge/?version=latest "Read the Documentation"
 [knittingpattern-landscape]: https://landscape.io/github/fossasia/knittingpattern/master
 [knittingpattern-landscape-badge]: https://landscape.io/github/fossasia/knittingpattern/master/landscape.svg?style=flat "Code Health"
-
+[knittingpattern-blog-conversion]: http://blog.fossasia.org/knitting-pattern-conversion/
+[knittingpattern-libraries]: https://pypi.python.org/pypi/knittingpattern
 
 
 [AYABInterface]: #AYABInterface-
@@ -438,7 +440,9 @@ Contribute:
 [AYABInterface-rtd-badge]: https://readthedocs.org/projects/AYABInterface/badge/?version=latest "Read the Documentation"
 [AYABInterface-landscape]: https://landscape.io/github/fossasia/AYABInterface/master
 [AYABInterface-landscape-badge]: https://landscape.io/github/fossasia/AYABInterface/master/landscape.svg?style=flat "Code Health"
-
+[AYABInterface-blog]: http://blog.fossasia.org/ayabinterface-a-python-module-for-the-ayab-shield/
+[AYABInterface-blog-new-module]: http://blog.fossasia.org/the-new-ayabinterface-module/
+[AYABInterface-libraries]: https://pypi.python.org/pypi/AYABInterface
 
 
 [knitting.fossasia.org]: #knittingfossasiaorg-
@@ -455,6 +459,8 @@ Contribute:
 [knitweb-waffle-badge]: https://badge.waffle.io/fossasia/knitweb.svg?label=ready&title=Ready "Stories in Ready"
 [knitweb-travis]: https://travis-ci.org/fossasia/knitweb
 [knitweb-travis-badge]: https://travis-ci.org/fossasia/knitweb.svg "Travis Build Status"
+[knitweb-blog-functionality]: http://blog.fossasia.org/author/sameera1234/
+[knitweb-blog-localization]: http://blog.fossasia.org/knitweb-localization/
 
 
 
@@ -462,6 +468,7 @@ Contribute:
 [circle-knitting-repo]: https://github.com/fossasia/circle-knitting
 [circle-knitting-waffle]: http://waffle.io/fossasia/circle-knitting
 [circle-knitting-waffle-badge]: https://badge.waffle.io/fossasia/circle-knitting.svg?label=ready&title=Ready "Stories in Ready"
+[circle-knitting-website]: https://fashiontec.wordpress.com/
 
 
 
@@ -473,6 +480,9 @@ Contribute:
 [knitlib-travis-badge]: https://travis-ci.org/fossasia/knitlib.svg "Travis Build Status"
 [knitlib-rtd]: https://knitlib.readthedocs.org
 [knitlib-rtd-badge]: https://readthedocs.org/projects/knitlib/badge/?version=latest "Read the Documentation"
+[knitlib-blog-exception-handler]: http://blog.fossasia.org/exception-handler-in-knitlib/
+[knitlib-blog-machine-abstraction]: http://blog.fossasia.org/knitting-machine-abstractions-for-knitlib/
+[knitlib-blog-importance-testcases]: http://blog.fossasia.org/importance-of-the-test-cases-for-the-knitlib/
 
 
 
@@ -502,7 +512,6 @@ Contribute:
 [ayab-apparat-repo]: https://bitbucket.org/chris007de/ayab-apparat
 [ayab-apparat-waffle]: http://waffle.io/allyarnsarebeautiful/ayab-apparat
 [ayab-apparat-waffle-badge]: https://badge.waffle.io/allyarnsarebeautiful/ayab-apparat.svg?label=ready&title=Ready "Stories in Ready"
-
 
 
 [github-logo]: images/GitHub.png "View on Github"
