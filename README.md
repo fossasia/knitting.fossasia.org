@@ -66,7 +66,6 @@ The `knittingpattern` is a Python library for an exchange format for knit work.
 It allows specifying how to knit a particular piece of work. You can
 
 - read the [blog post about this project][knittingpattern-blog-conversion].
-- check out the [libraries][knittingpattern-libraries].
 
 Contribute:
 [Tutorial Videos][tutorial-videos],
@@ -88,7 +87,7 @@ Contribute:
 
 The `AYABInterface` is used by the [Knit Editor][kniteditor] to
 convert [knittingpatterns][knittingpattern] into machine instructions.
-It can be used standalone without these other projects.You can
+It can be used standalone without these other projects. You can
 
 - read the [blog post about this project][AYABInterface-blog].
 - read about the [The new AYABInterface module][AYABInterface-blog-new-module].
@@ -112,8 +111,7 @@ Contribute:
 
 ### knitting.fossasia.org [![View on Github][github-logo]][knitting.fossasia.org-repo]
 
-This is this overview site over the different knitting projects and aims at introducing new people to the community.
-You can 
+This is this overview site over the different knitting projects and aims at introducing new people to the community. You can 
 
 - visit the [website][this-site].
 - [add new entries][knitting.fossasia.org-edit] for [projects][project-list] and [related work][related-work].
@@ -144,7 +142,7 @@ Contribute:
 ### knitweb [![View on Github][github-logo]][knitweb-repo]
 
 [`knitweb`][knitweb-repo] is an app frontend and backend that works together with the
-[`knitlib`][knitserver] server and uses the [`knitpat`][knitpat] format.You can
+[`knitlib`][knitserver] server and uses the [`knitpat`][knitpat] format. You can
 
 - read about the [Functionality of knitWeb Application][knitweb-blog-functionality].
 - read about the [KnitWeb Localization][knitweb-blog-localization].
@@ -162,7 +160,7 @@ Knitlib is based on projects like [AYAB][ayab], PDD, and KnitterStream to contro
 Knitlib features a plugin system for knitting machines and implements an API to control machines' operation,
 knitting jobs and knitting patterns. The software is based on Python.
 There also is a Web API.
-Among the primary tasks is to develop plugins based on this solution to add support for more machines.You can
+Among the primary tasks is to develop plugins based on this solution to add support for more machines. You can
 
 - read about the [Exception handler in KnitLib][knitlib-blog-exception-handler].
 - read about the [Knitting machine abstractions for Knitlib][[knitlib-blog-machine-abstraction].
@@ -388,7 +386,6 @@ Contribute:
 [kniteditor-releases]: https://github.com/fossasia/kniteditor/releases
 [kniteditor-translate-video]: https://www.youtube.com/watch?v=9M4y_dUpoeg
 [kniteditor-blog-overview]: http://blog.fossasia.org/knit-editor-package-overview/
-[kniteditor-libraries]: https://pypi.python.org/pypi/kniteditor
 
 
 
@@ -415,7 +412,6 @@ Contribute:
 [knittingpattern-landscape]: https://landscape.io/github/fossasia/knittingpattern/master
 [knittingpattern-landscape-badge]: https://landscape.io/github/fossasia/knittingpattern/master/landscape.svg?style=flat "Code Health"
 [knittingpattern-blog-conversion]: http://blog.fossasia.org/knitting-pattern-conversion/
-[knittingpattern-libraries]: https://pypi.python.org/pypi/knittingpattern
 
 
 [AYABInterface]: #AYABInterface-
