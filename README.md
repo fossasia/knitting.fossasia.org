@@ -17,6 +17,7 @@ If you are interested in related work, [look here][related-work].
   - [knitlib][knitlib]
   - [knitserver][knitserver]
 - [How to Contribute][how-to-contribute]
+  - [For Beginners][beginners]
   - [Translate][translate]
   - [Solve Issues][solve-issues]
   - [Get in Touch][get-in-touch]
@@ -190,8 +191,15 @@ How to Contribute
 You can have various reasons to contribute to the software.
 This section aims to give you an overview over ways to get started.
 
-If you like to watch a video, you can view the [tutorial videos][tutorial-videos] on getting started with development.
+The projects listed on this page have a **Contribute:** section which includes links for developers such as [tutorial videos][tutorial-videos]. In the following we will clarify how you can use them to jump into development.
 If you have any questions, please [get in touch][get-in-touch] :)
+
+### For Beginners
+
+All these projects are hosted on github. They use git as a version control system. in order to contribute, please first get familiar with git and github. You can use do tutorials for this:
+
+- [git guide][git-guide] in several languages
+- [try github][try-github]
 
 ### Translate
 
@@ -359,7 +367,9 @@ An older version of [this overview site][top].
 [labs]: http://labs.fossasia.org/
 [tutorial-videos]: https://www.youtube.com/playlist?list=PL_bQhtrnWFA8skye4GpQ2Y8kEHxLwQKHY
 [github-niccokunzmann]: https://github.com/niccokunzmann
-
+[beginners]: #for-beginners
+[git-guide]: https://rogerdudler.github.io/git-guide/index.html
+[try-github]: https://try.github.io
 
 
 [kniteditor]: #kniteditor-
