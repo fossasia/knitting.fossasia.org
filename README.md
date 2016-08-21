@@ -39,7 +39,10 @@ It allows [creating digital knit works][knittingpattern] from images
 and knitting it with several knitting machines.
 
 This kniteditor is developed together with [All Yarns Are Beautiful][ayab].
-You can [download the releases][kniteditor-releases] and install them.
+You can [download the releases][kniteditor-releases] and install them.You can
+
+- read the [blog post about this project][http://blog.fossasia.org/knit-editor-package-overview/].
+- check out the [libraries][https://pypi.python.org/pypi/kniteditor].
 
 Contribute:
 [Tutorial Videos][tutorial-videos],
@@ -60,7 +63,10 @@ Contribute:
 ### knittingpattern [![View on Github][github-logo]][knittingpattern-repo]
 
 The `knittingpattern` is a Python library for an exchange format for knit work.
-It allows specifying how to knit a particular piece of work.
+It allows specifying how to knit a particular piece of work. You can
+
+- read the [blog post about this project][http://blog.fossasia.org/knitting-pattern-conversion/].
+- check out the [libraries][https://pypi.python.org/pypi/knittingpattern].
 
 Contribute:
 [Tutorial Videos][tutorial-videos],
@@ -82,7 +88,11 @@ Contribute:
 
 The `AYABInterface` is used by the [Knit Editor][kniteditor] to
 convert [knittingpatterns][knittingpattern] into machine instructions.
-It can be used standalone without these other projects.
+It can be used standalone without these other projects.You can
+
+- read the [blog post about this project][http://blog.fossasia.org/ayabinterface-a-python-module-for-the-ayab-shield/].
+- read about the [The new AYABInterface module][http://blog.fossasia.org/the-new-ayabinterface-module/]
+- check out the [libraries] [https://pypi.python.org/pypi/AYABInterface]
 
 Contribute:
 [Tutorial Videos][tutorial-videos],
@@ -121,7 +131,9 @@ There are commercial circular knitting machines, that are nearly completely made
 A popular modul is the Addi Express. 
 Plastic can be easily printed out on 3D printers. 
 This project implements the idea to code a circular knitting machine. 
-As inexpensive small PCs components like the Rapsberry PI and Arduinos become increasingly powerful there is even an option to include them as optional components in such a 3D printed knitting machine.
+As inexpensive small PCs components like the Rapsberry PI and Arduinos become increasingly powerful there is even an option to include them as optional components in such a 3D printed knitting machine. You can
+
+- visit the [website for this project][https://fashiontec.wordpress.com/]
 
 Contribute:
 [Repository][circle-knitting-repo]
@@ -132,7 +144,10 @@ Contribute:
 ### knitweb [![View on Github][github-logo]][knitweb-repo]
 
 [`knitweb`][knitweb-repo] is an app frontend and backend that works together with the
-[`knitlib`][knitserver] server and uses the [`knitpat`][knitpat] format.
+[`knitlib`][knitserver] server and uses the [`knitpat`][knitpat] format.You can
+
+- read about the [Functionality of knitWeb Application][http://blog.fossasia.org/author/sameera1234/]
+- read about the [KnitWeb Localization][http://blog.fossasia.org/knitweb-localization/]
 
 Contribute:
 [Repository][knitweb-repo]
@@ -147,7 +162,11 @@ Knitlib is based on projects like [AYAB][ayab], PDD, and KnitterStream to contro
 Knitlib features a plugin system for knitting machines and implements an API to control machines' operation,
 knitting jobs and knitting patterns. The software is based on Python.
 There also is a Web API.
-Among the primary tasks is to develop plugins based on this solution to add support for more machines.
+Among the primary tasks is to develop plugins based on this solution to add support for more machines.You can
+
+- read about the [Exception handler in KnitLib][http://blog.fossasia.org/exception-handler-in-knitlib/]
+- read about the [Knitting machine abstractions for Knitlib][http://blog.fossasia.org/knitting-machine-abstractions-for-knitlib/]
+- read about the [Importance of the test cases for the KnitLib][http://blog.fossasia.org/importance-of-the-test-cases-for-the-knitlib/]
 
 Contribute:
 [Repository][knitlib-repo]
