@@ -42,6 +42,10 @@ and knitting it with several knitting machines.
 This kniteditor is developed together with [All Yarns Are Beautiful][ayab].
 You can [download the releases][kniteditor-releases] and install them.
 
+**Read about the project:**
+
+- [blog post about this project][kniteditor-blog-overview].
+
 **Related Projects:** [knittingpattern][knittingpattern], [AYABInterface][AYABInterface]
 
 **Contribute:**
@@ -65,6 +69,10 @@ You can [download the releases][kniteditor-releases] and install them.
 The `knittingpattern` is a Python library for an exchange format for knit work.
 It allows specifying how to knit a particular piece of work.
 
+**Read about the project:**
+
+- [blog post about this project][knittingpattern-blog-conversion].
+
 **Related Projects:** [AYABInterface][AYABInterface], [kniteditor][kniteditor]
 
 **Contribute:**
@@ -87,7 +95,12 @@ It allows specifying how to knit a particular piece of work.
 
 The `AYABInterface` is used by the [Knit Editor][kniteditor] to
 convert [knittingpatterns][knittingpattern] into machine instructions.
-It can be used standalone without these other projects.
+It can be used standalone without these other projects. You can
+
+**Read about the project:**
+
+- [blog post about this project][AYABInterface-blog]
+- [The new AYABInterface module][AYABInterface-blog-new-module]
 
 **Related Projects:** [knittingpattern][knittingpattern], [kniteditor][kniteditor]
 
@@ -109,8 +122,7 @@ It can be used standalone without these other projects.
 
 ### knitting.fossasia.org [![View on Github][github-logo]][knitting.fossasia.org-repo]
 
-This is this overview site over the different knitting projects and aims at introducing new people to the community.
-You can 
+This is this overview site over the different knitting projects and aims at introducing new people to the community. You can 
 
 - visit the [website][this-site]
 - [add new entries][knitting.fossasia.org-edit] for [projects][project-list] and [related work][related-work]
@@ -132,7 +144,9 @@ There are commercial circular knitting machines, that are nearly completely made
 A popular modul is the Addi Express. 
 Plastic can be easily printed out on 3D printers. 
 This project implements the idea to code a circular knitting machine. 
-As inexpensive small PCs components like the Rapsberry PI and Arduinos become increasingly powerful there is even an option to include them as optional components in such a 3D printed knitting machine.
+As inexpensive small PCs components like the Rapsberry PI and Arduinos become increasingly powerful there is even an option to include them as optional components in such a 3D printed knitting machine. You can
+
+- visit the [website for this project][circle-knitting-website].
 
 **Contribute:**
 [Repository][circle-knitting-repo]
@@ -146,6 +160,11 @@ As inexpensive small PCs components like the Rapsberry PI and Arduinos become in
 [`knitlib`][knitlib] server and uses the [`knitpat`][knitpat] format.
 
 **Related Projects:** [knitlib][knitlib], [knitpat][knitpat], [knitserver][knitserver]
+
+**Read about the project:**
+
+- [Functionality of knitWeb Application][knitweb-blog-functionality].
+- [KnitWeb Localization][knitweb-blog-localization].
 
 **Contribute:**
 [Repository][knitweb-repo]
@@ -161,6 +180,12 @@ Knitlib features a plugin system for knitting machines and implements an API to 
 knitting jobs and knitting patterns. The software is based on Python.
 There also is a Web API.
 Among the primary tasks is to develop plugins based on this solution to add support for more machines.
+
+**Read about the project:**
+
+- [Exception handler in KnitLib][knitlib-blog-exception-handler].
+- [Knitting machine abstractions for Knitlib][[knitlib-blog-machine-abstraction].
+- [Importance of the test cases for the KnitLib][knitlib-blog-importance-testcases].
 
 **Related Projects:** [knitpat][knitpat], [knitweb][knitweb], [knitserver][knitserver]
 
@@ -212,9 +237,9 @@ You can add translations to these projects:
 
 - [kniteditor][kniteditor]
   - [A video on how to translate][kniteditor-translate-video]
-  - [Blogpost about localization implementation](http://blog.fossasia.org/awesome-kivy-revelations/)
+  - [Blogpost about localization implementation][kniteditor-blog-kivy-revelations]
 - [knitweb][knitweb]
-  - [Blogpost about localization](http://blog.fossasia.org/knitweb-localization/)
+  - [Blogpost about localization][knitweb-blog-localization]
 
 
 
@@ -274,7 +299,7 @@ There is a [mailing list for knitting applications][mailing-list] such as [these
 
 You can comment on issues and through these reach the developers directly.
 
-We have a Gitter chat which you can join: [![Join the chat at https://gitter.im/fashiontec/knitapps](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/fashiontec/knitapps?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+We have a Gitter chat which you can join: [![Join the chat at https://gitter.im/fashiontec/knitapps][gitter-svg]][gitter]
 
 For a broad overview on how to join FOSSASIA, see the [FOSSASIA labs][labs].
 
@@ -373,6 +398,8 @@ An older version of [this overview site][top].
 [git-guide]: https://rogerdudler.github.io/git-guide/index.html
 [try-github]: https://try.github.io
 [vcs]: https://en.wikipedia.org/wiki/Version_control
+[gitter-svg]: https://badges.gitter.im/Join%20Chat.svg
+[gitter]: https://gitter.im/fashiontec/knitapps?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
 
 
 [kniteditor]: #kniteditor-
@@ -397,9 +424,10 @@ An older version of [this overview site][top].
 [kniteditor-rtd-badge]: https://readthedocs.org/projects/kniteditor/badge/?version=latest "Read the Documentation"
 [kniteditor-landscape]: https://landscape.io/github/fossasia/kniteditor/master
 [kniteditor-landscape-badge]: https://landscape.io/github/fossasia/kniteditor/master/landscape.svg?style=flat "Code Health"
-
 [kniteditor-releases]: https://github.com/fossasia/kniteditor/releases
 [kniteditor-translate-video]: https://www.youtube.com/watch?v=9M4y_dUpoeg
+[kniteditor-blog-overview]: http://blog.fossasia.org/knit-editor-package-overview/
+[kniteditor-blog-kivy-revelations]: http://blog.fossasia.org/awesome-kivy-revelations/
 
 
 
@@ -425,7 +453,7 @@ An older version of [this overview site][top].
 [knittingpattern-rtd-badge]: https://readthedocs.org/projects/knittingpattern/badge/?version=latest "Read the Documentation"
 [knittingpattern-landscape]: https://landscape.io/github/fossasia/knittingpattern/master
 [knittingpattern-landscape-badge]: https://landscape.io/github/fossasia/knittingpattern/master/landscape.svg?style=flat "Code Health"
-
+[knittingpattern-blog-conversion]: http://blog.fossasia.org/knitting-pattern-conversion/
 
 
 [AYABInterface]: #ayabinterface-
@@ -450,7 +478,8 @@ An older version of [this overview site][top].
 [AYABInterface-rtd-badge]: https://readthedocs.org/projects/AYABInterface/badge/?version=latest "Read the Documentation"
 [AYABInterface-landscape]: https://landscape.io/github/fossasia/AYABInterface/master
 [AYABInterface-landscape-badge]: https://landscape.io/github/fossasia/AYABInterface/master/landscape.svg?style=flat "Code Health"
-
+[AYABInterface-blog]: http://blog.fossasia.org/ayabinterface-a-python-module-for-the-ayab-shield/
+[AYABInterface-blog-new-module]: http://blog.fossasia.org/the-new-ayabinterface-module/
 
 
 [knitting.fossasia.org]: #knittingfossasiaorg-
@@ -467,6 +496,8 @@ An older version of [this overview site][top].
 [knitweb-waffle-badge]: https://badge.waffle.io/fossasia/knitweb.svg?label=ready&title=Ready "Stories in Ready"
 [knitweb-travis]: https://travis-ci.org/fossasia/knitweb
 [knitweb-travis-badge]: https://travis-ci.org/fossasia/knitweb.svg "Travis Build Status"
+[knitweb-blog-functionality]: http://blog.fossasia.org/author/sameera1234/
+[knitweb-blog-localization]: http://blog.fossasia.org/knitweb-localization/
 
 
 
@@ -474,6 +505,7 @@ An older version of [this overview site][top].
 [circle-knitting-repo]: https://github.com/fossasia/circle-knitting
 [circle-knitting-waffle]: http://waffle.io/fossasia/circle-knitting
 [circle-knitting-waffle-badge]: https://badge.waffle.io/fossasia/circle-knitting.svg?label=ready&title=Ready "Stories in Ready"
+[circle-knitting-website]: https://fashiontec.wordpress.com/
 
 
 
@@ -485,6 +517,9 @@ An older version of [this overview site][top].
 [knitlib-travis-badge]: https://travis-ci.org/fossasia/knitlib.svg "Travis Build Status"
 [knitlib-rtd]: https://knitlib.readthedocs.org
 [knitlib-rtd-badge]: https://readthedocs.org/projects/knitlib/badge/?version=latest "Read the Documentation"
+[knitlib-blog-exception-handler]: http://blog.fossasia.org/exception-handler-in-knitlib/
+[knitlib-blog-machine-abstraction]: http://blog.fossasia.org/knitting-machine-abstractions-for-knitlib/
+[knitlib-blog-importance-testcases]: http://blog.fossasia.org/importance-of-the-test-cases-for-the-knitlib/
 
 
 
@@ -514,7 +549,6 @@ An older version of [this overview site][top].
 [ayab-apparat-repo]: https://bitbucket.org/chris007de/ayab-apparat
 [ayab-apparat-waffle]: http://waffle.io/allyarnsarebeautiful/ayab-apparat
 [ayab-apparat-waffle-badge]: https://badge.waffle.io/allyarnsarebeautiful/ayab-apparat.svg?label=ready&title=Ready "Stories in Ready"
-
 
 
 [github-logo]: images/GitHub.png "View on Github"
