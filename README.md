@@ -146,7 +146,7 @@ Contribute:
 [`knitweb`][knitweb-repo] is an app frontend and backend that works together with the
 [`knitlib`][knitserver] server and uses the [`knitpat`][knitpat] format.You can
 
-- read out the [Functionality of knitWeb Application][http://blog.fossasia.org/author/sameera1234/]
+- read about the [Functionality of knitWeb Application][http://blog.fossasia.org/author/sameera1234/]
 - read about the [KnitWeb Localization][http://blog.fossasia.org/knitweb-localization/]
 
 Contribute:
