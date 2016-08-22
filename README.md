@@ -184,7 +184,7 @@ Among the primary tasks is to develop plugins based on this solution to add supp
 **Read about the project:**
 
 - [Exception handler in KnitLib][knitlib-blog-exception-handler].
-- [Knitting machine abstractions for Knitlib][[knitlib-blog-machine-abstraction].
+- [Knitting machine abstractions for Knitlib][knitlib-blog-machine-abstraction].
 - [Importance of the test cases for the KnitLib][knitlib-blog-importance-testcases].
 
 **Related Projects:** [knitpat][knitpat], [knitweb][knitweb], [knitserver][knitserver]
