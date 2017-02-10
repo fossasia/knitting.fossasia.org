@@ -18,7 +18,7 @@ Communication
 
 **Slack:** [FOSSASIA][fossasia] has a [Slack][slack] to chat in the community. You can use the main channel or **#knitting**. The current project lead of the knitting project is [github][github-niccokunzmann] and on [Slack][slack] under the name "niccokunzmann". Feel free to get in touch directly for questions.
 
-**Gitter:** You can comment on issues and through these reach the developers directly. We have a Gitter chat which you can join: [![Join the chat at https://gitter.im/fashiontec/knitapps][gitter-svg]][gitter]
+**Gitter:** We have a Gitter chat which you can join as well at [gitter.im/fossasia/knitapps](https://gitter.im/fossasia/knitapps)
 
 **Mailing List:** There is a [mailing list for knitting applications][mailing-list] for questions and ideas. You can also join the [FOSSASIA mailing list][fossasia-mailing-list].
 
