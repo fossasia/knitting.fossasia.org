@@ -3,6 +3,7 @@ Open Source Knitting
 
 On this page you find an overview of [FOSSASIA][fossasia] Open Source Knitting Projects and you start to [get involved][how-to-contribute]. You can also can get in touch with us and check out other [projects][other-projects] working on Open Source knitting.
 
+- [Communication](#communication)
 - [Knitting Projects][project-list]
   - [kniteditor][kniteditor]
   - [knittingpattern][knittingpattern]
