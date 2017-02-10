@@ -19,7 +19,7 @@ Communication
 
 **Gitter:** You can comment on issues and through these reach the developers directly. We have a Gitter chat which you can join: [![Join the chat at https://gitter.im/fashiontec/knitapps][gitter-svg]][gitter]
 
-**Mailing List:** There is a [mailing list for knitting applications][mailing-list] such as [these listed][project-list]. You can also join the [FOSSASIA mailing list][fossasia-mailing-list].
+**Mailing List:** There is a [mailing list for knitting applications][mailing-list] for questions and ideas. You can also join the [FOSSASIA mailing list][fossasia-mailing-list].
 
 ---
 
@@ -177,8 +177,8 @@ To edit [website][this-site] or [add new entries][knitting.fossasia.org-edit] vi
 
 
 
-[top]: #knitting-projects
-[project-list]: #list-of-knitting-projects
+[top]: #Open-Source-Knitting-Projects
+[project-list]: #knitting-projects
 [outdated-projects]: #outdated-projects
 [this-site]: https://knitting.fossasia.org
 [ayab]: http://ayab-knitting.com/
@@ -186,14 +186,11 @@ To edit [website][this-site] or [add new entries][knitting.fossasia.org-edit] vi
 [fossasia]: https://fossasia.org
 [mailing-list]: https://groups.google.com/forum/#!forum/knitapps
 [how-to-contribute]: #how-to-contribute
-[translate]: #translate
-[improve-metrics]: #improve-metrics
 [improve-metrics-example]: https://landscape.io/github/fossasia/knittingpattern/187/messages/style
 [ddd]: http://niccokunzmann.github.io/blog/2016-06-10/Documentation-Driven-Development
 [test-first]: http://www.extremeprogramming.org/rules/testfirst.html
 [tdd]: https://en.wikipedia.org/wiki/Test-driven_development
 [get-in-touch]: #get-in-touch
-[solve-issues]: #solve-issues
 [links]: #links
 [slack]: http://fossasia-slack.herokuapp.com/
 [fossasia-mailing-list]: https://groups.google.com/forum/#!forum/fossasia
@@ -208,7 +205,7 @@ To edit [website][this-site] or [add new entries][knitting.fossasia.org-edit] vi
 [gitter]: https://gitter.im/fashiontec/knitapps?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
 
 
-[kniteditor]: #kniteditor-
+[kniteditor]: #kniteditor
 [kniteditor-repo]: https://github.com/fossasia/kniteditor
 [kniteditor-waffle]: http://waffle.io/fossasia/kniteditor
 [kniteditor-waffle-badge]: https://badge.waffle.io/fossasia/kniteditor.svg?label=ready&title=Ready "Issues Ready to Work on"
