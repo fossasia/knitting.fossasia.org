@@ -11,7 +11,6 @@ If you are interested in related work, [look here][related-work].
   - [kniteditor][kniteditor]
   - [knittingpattern][knittingpattern]
   - [AYABInterface][AYABInterface]
-  - [knitting.fossasia.org][knitting.fossasia.org]
   - [circle-knitting][circle-knitting]
   - [knitweb][knitweb]
   - [knitlib][knitlib]
@@ -26,7 +25,6 @@ If you are interested in related work, [look here][related-work].
   - [Links][links]
 - [Outdated Projects][outdated-projects]
   - [knitpat][knitpat]
-  - [knitapps][knitapps]
 
 List of Knitting Projects
 -------------------------
@@ -124,8 +122,6 @@ It can be used standalone without these other projects. You can
 
 The goal of this project is to develop a knitting machine that is entirely made from plastic. An enhanced model can include a micro PC that can control the machine using our Open Source knitting software. This project can enable people to print out a plastic on a 3D printer. 
 This project implements the idea to code a circular knitting machine. 
-
-- visit the [website for this project][circle-knitting-website].
 
 **Contribute:**
 [Repository][circle-knitting-repo]
