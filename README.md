@@ -138,16 +138,7 @@ This can fix this by adding spaces around the operator.
 
 **Solve Issues**
 
-All the projects have "issues" attached to them. They show bugs and feature requests. A solved issue improves the life of somebody on earth. When solving the issue, you are introduced to the development process of the project and learn how to adapt the project to your needs. Issues can be found in the issue tracker of github. You can find them through the "Repository" links of the [projects][project-list] or by clicking these badges:  
-[![knitting.fossasia.org-waffle-badge]][knitting.fossasia.org-waffle]  
-The badge above links to the overview of all listed projects. If you find an issue which interests you, please comment that you would like to work on it. This way, you get help and it is not done twice.
-
-Issues can be `easy`. You may pick those first to get into the project. Issues can have multiple bullet points or check boxes. You do not need to solve all of them. You can choose one and solve it.
-
-The projects have tests and documentation:  
-[![Test Coverage][knittingpattern-test-coverage-badge]][knittingpattern-test-coverage]
-[![Read the Documentation][knittingpattern-rtd-badge]][knittingpattern-rtd]  
-Code should be documented and tested. Consider trying out [documentation driven development][ddd], [Test-First][test-first] and [test-driven development][tdd].
+All the projects have "issues" attached to them. They show bugs and feature requests. A solved issue improves the life of somebody on earth. When solving the issue, you are introduced to the development process of the project and learn how to adapt the project to your needs. Issues can be found in the issue tracker of github. The badge above links to the overview of all listed projects. If you find an issue which interests you, please comment that you would like to work on it. This way, you get help and it is not done twice. Code should be documented and tested. Consider trying out [documentation driven development][ddd], [Test-First][test-first] and [test-driven development][tdd].
 
 
 --
