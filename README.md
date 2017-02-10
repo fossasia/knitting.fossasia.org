@@ -36,7 +36,7 @@ The Knit Editor is an editor for the knit exchange format. It allows [creating d
 
 - [blog post about this project][kniteditor-blog-overview].
 
-**Repository:** [Repository][kniteditor-repo]
+**Repository:** [GitHub][kniteditor-repo]
 **Tutorials:**[Tutorial Videos][tutorial-videos]
 
 **Contribute:**
@@ -63,7 +63,7 @@ It allows specifying how to knit a particular piece of work.
 
 - [blog post about this project][knittingpattern-blog-conversion].
 
-**Repository:** [Repository][knittingpattern-repo]
+**Repository:** [GitHub][knittingpattern-repo]
 **Tutorial:** [Tutorial Videos][tutorial-videos]
 
 **Contribute:**
@@ -92,7 +92,7 @@ It can be used standalone without these other projects. You can
 - [blog post about this project][AYABInterface-blog]
 - [The new AYABInterface module][AYABInterface-blog-new-module]
 
-**Repository:** [Repository][AYABInterface-repo]
+**Repository:** [GitHub][AYABInterface-repo]
 **Tutorial:** [Tutorial Videos][tutorial-videos],
 
 **Contribute:**
@@ -116,7 +116,7 @@ It can be used standalone without these other projects. You can
 The goal of this project is to develop a knitting machine that is entirely made from plastic. An enhanced model can include a micro PC that can control the machine using our Open Source knitting software. This project can enable people to print out a plastic on a 3D printer. 
 This project implements the idea to code a circular knitting machine. 
 
-**Repository:** [Repository][circle-knitting-repo]
+**Repository:** [GitHub][circle-knitting-repo]
 
 **Contribute:**
 [![Issues Ready to Work on][circle-knitting-waffle-badge]][circle-knitting-waffle]
@@ -133,7 +133,7 @@ This project implements the idea to code a circular knitting machine.
 - [Functionality of knitWeb Application][knitweb-blog-functionality].
 - [KnitWeb Localization][knitweb-blog-localization].
 
-**Repository:** [Repository][knitweb-repo]
+**Repository:** [GitHub][knitweb-repo]
 
 **Contribute:**
 [![Issues Ready to Work on][knitweb-waffle-badge]][knitweb-waffle]
@@ -152,7 +152,7 @@ Knitlib is a library designed to support the operation of varied knitting machin
 - [Knitting machine abstractions for Knitlib][knitlib-blog-machine-abstraction].
 - [Importance of the test cases for the KnitLib][knitlib-blog-importance-testcases].
 
-**Repository:** [Repository][knitlib-repo]
+**Repository:** [GitHub][knitlib-repo]
 
 **Contribute:**
 [![Issues Ready to Work on][knitlib-waffle-badge]][knitlib-waffle]
@@ -168,7 +168,7 @@ Knitlib is a library designed to support the operation of varied knitting machin
 Knitserver is a [Knitlib][knitlib] client that provides REST API endpoints for knitting machine software and control.
 Knitserver is designed to interact with [Knitweb][knitweb].
 
-**Repository:** [Repository][knitserver-repo]
+**Repository:** [GitHub][knitserver-repo]
 
 **Contribute:**
 [![Issues Ready to Work on][knitserver-waffle-badge]][knitserver-waffle]
