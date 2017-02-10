@@ -79,7 +79,7 @@ The `knittingpattern` is a Python library for an exchange format for knit work. 
 
 ---
 
-### AYABInterface [![View on Github][github-logo]][AYABInterface-repo]
+### AYABInterface
 
 The `AYABInterface` is used by the [Knit Editor][kniteditor] to convert [knittingpatterns][knittingpattern] into machine instructions. It can be used standalone without these other projects. You can
 
@@ -107,7 +107,7 @@ The `AYABInterface` is used by the [Knit Editor][kniteditor] to convert [knittin
 
 ---
 
-### circle-knitting [![View on Github][github-logo]][circle-knitting-repo]
+### circle-knitting
 
 The goal of this project is to develop a knitting machine that is entirely made from plastic. An enhanced model can include a micro PC that can control the machine using our Open Source knitting software. This project can enable people to print out a plastic on a 3D printer. This project implements the idea to code a circular knitting machine. 
 
