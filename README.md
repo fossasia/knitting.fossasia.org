@@ -188,16 +188,6 @@ Knitserver is designed to interact with [Knitweb][knitweb].
 How to Contribute
 -----------------
 
-You can have various reasons to contribute to the software. This section aims to give you an overview over ways to get started. The projects listed on this page have a **Contribute:** section which includes links for developers such as [tutorial videos][tutorial-videos]. In the following we will clarify how you can use them to jump into development.
-If you have any questions, please [get in touch][get-in-touch] :)
-
-### For Beginners
-
-All these projects are hosted on github. They use git to [control every version of the software][vcs]. In order to contribute, please first get to know git and github. Therefore, you can do tutorials:
-
-- [git guide][git-guide] in several languages
-- [try github][try-github]
-
 ### Translate
 
 A majority of people on earth do not speak English. By translating software, you make it accessible to thousands of people. You can add translations to these projects:
@@ -208,8 +198,6 @@ A majority of people on earth do not speak English. By translating software, you
 - [knitweb][knitweb]
   - [Blogpost about localization][knitweb-blog-localization]
 
-
-
 ### Improve Metrics
 
 Improving code metrics requires coding but not the understanding of how the code works. You learn how to set up this specific environment, fix some code and while doing this, you read it and get familiar with it. When your pull request is merged, you have contributed to the health of the project. Some of the repositories have code metrics like code coverage and code quality. They can be improved easily. E.g. in [this example][improve-metrics-example] you can find this error:
@@ -218,8 +206,6 @@ Improving code metrics requires coding but not the understanding of how the code
 	    missing whitespace around arithmetic operator
 
 This can fix this by adding spaces around the operator. 
-
-
 
 ### Solve Issues
 
@@ -245,8 +231,6 @@ Consider trying out [documentation driven development][ddd],
 There is a [mailing list for knitting applications][mailing-list] such as [these listed][project-list]. You can also join the [FOSSASIA mailing list][fossasia-mailing-list].
 
 You can comment on issues and through these reach the developers directly. We have a Gitter chat which you can join: [![Join the chat at https://gitter.im/fashiontec/knitapps][gitter-svg]][gitter]
-
-For a broad overview on how to join FOSSASIA, see the [FOSSASIA labs][labs].
 
 --
 
