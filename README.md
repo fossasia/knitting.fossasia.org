@@ -170,21 +170,21 @@ Outdated Projects
 
 These projects are a bit older, obsoleted or not maintained any more.
 
-### knitpat [![View on Github]
+### knitpat
 
 `knitpat` contains a pattern definition format for knit work.
 It is the predecessor of the [`knittingpattern`][knittingpattern] library.
 
-### knitserver [![View on Github]
+### knitserver
 
 Knitserver is a [Knitlib][knitlib] client that provides REST API endpoints for knitting machine software and control.
 Knitserver is designed to interact with [Knitweb][knitweb]. Repository: [GitHub][knitserver-repo]
 
-### knitweb [![View on Github]
+### knitweb
 
 [`knitweb`][knitweb-repo] is an app frontend and backend that works together with the [`knitlib`][knitlib] server and uses the [`knitpat`][knitpat] format. Repository: [GitHub][knitweb-repo]
 
-### knitlib [![View on Github]
+### knitlib
 
 Knitlib is a library designed to support the operation of varied knitting machines, mechanisms, and hacks. Knitlib is based on projects like [AYAB][ayab], PDD, and KnitterStream to control knitting machines. Knitlib features a plugin system for knitting machines and implements an API to control machines' operation, knitting jobs and knitting patterns. The software is based on Python. There also is a Web API. Among the primary tasks is to develop plugins based on this solution to add support for more machines. Repository: [GitHub][knitlib-repo]
 
