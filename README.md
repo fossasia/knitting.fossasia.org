@@ -51,7 +51,7 @@ The Knit Editor is an editor for the knit exchange format. It allows [creating d
 
 **Related Projects:** [knittingpattern][knittingpattern], [AYABInterface][AYABInterface]
 
---
+---
 
 ### knittingpattern
 
