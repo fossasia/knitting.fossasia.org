@@ -125,16 +125,6 @@ This project implements the idea to code a circular knitting machine.
 
 --
 
-
-
-
-
-
-
-
-
---
-
 How to Contribute
 -----------------
 
@@ -196,6 +186,7 @@ These are links to other projects and overview sites. The objective is to ease e
 - [Community Connections](https://github.com/AllYarnsAreBeautiful/ayab-desktop/wiki/Community-Connections)
 - [Blogpost about Designaknit](http://blog.fossasia.org/designaknit/)
 
+
 Outdated Projects
 -----------------
 
@@ -213,32 +204,12 @@ Knitserver is designed to interact with [Knitweb][knitweb]. Repository: [GitHub]
 
 ### knitweb [![View on Github][github-logo]][knitweb-repo]
 
-[`knitweb`][knitweb-repo] is an app frontend and backend that works together with the
-[`knitlib`][knitlib] server and uses the [`knitpat`][knitpat] format.
-
-**Read about the project:**
-
-- [Functionality of knitWeb Application][knitweb-blog-functionality].
-- [KnitWeb Localization][knitweb-blog-localization].
-
-**Repository:** [GitHub][knitweb-repo]
+[`knitweb`][knitweb-repo] is an app frontend and backend that works together with the [`knitlib`][knitlib] server and uses the [`knitpat`][knitpat] format. Repository: [GitHub][knitweb-repo]
 
 ### knitlib [![View on Github][github-logo]][knitlib-repo]
 
-Knitlib is a library designed to support the operation of varied knitting machines, mechanisms, and hacks. Knitlib is based on projects like [AYAB][ayab], PDD, and KnitterStream to control knitting machines. Knitlib features a plugin system for knitting machines and implements an API to control machines' operation, knitting jobs and knitting patterns. The software is based on Python. There also is a Web API. Among the primary tasks is to develop plugins based on this solution to add support for more machines.
+Knitlib is a library designed to support the operation of varied knitting machines, mechanisms, and hacks. Knitlib is based on projects like [AYAB][ayab], PDD, and KnitterStream to control knitting machines. Knitlib features a plugin system for knitting machines and implements an API to control machines' operation, knitting jobs and knitting patterns. The software is based on Python. There also is a Web API. Among the primary tasks is to develop plugins based on this solution to add support for more machines. Repository: [GitHub][knitlib-repo]
 
-**Read about the project:**
-
-- [Exception handler in KnitLib][knitlib-blog-exception-handler].
-- [Knitting machine abstractions for Knitlib][knitlib-blog-machine-abstraction].
-- [Importance of the test cases for the KnitLib][knitlib-blog-importance-testcases].
-
-**Repository:** [GitHub][knitlib-repo]
-
-**Contribute:**
-[![Issues Ready to Work on][knitlib-waffle-badge]][knitlib-waffle]
-[![Read the Documentation][knitlib-rtd-badge]][knitlib-rtd]
-[![Travis Build Status][knitlib-travis-badge]][knitlib-travis]
 
 
 
