@@ -64,6 +64,7 @@ It allows specifying how to knit a particular piece of work.
 - [blog post about this project][knittingpattern-blog-conversion].
 
 **Repository:** [GitHub][knittingpattern-repo]
+
 **Tutorial:** [Tutorial Videos][tutorial-videos]
 
 **Contribute:**
@@ -93,6 +94,7 @@ It can be used standalone without these other projects. You can
 - [The new AYABInterface module][AYABInterface-blog-new-module]
 
 **Repository:** [GitHub][AYABInterface-repo]
+
 **Tutorial:** [Tutorial Videos][tutorial-videos],
 
 **Contribute:**
