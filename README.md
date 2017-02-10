@@ -16,7 +16,6 @@ If you are interested in related work, [look here][related-work].
   - [knitlib][knitlib]
   - [knitserver][knitserver]
 - [How to Contribute][how-to-contribute]
-  - [For Beginners][beginners]
   - [Translate][translate]
   - [Solve Issues][solve-issues]
   - [Get in Touch][get-in-touch]
