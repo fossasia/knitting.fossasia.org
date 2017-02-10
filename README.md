@@ -10,7 +10,7 @@ On this page you find an overview of [FOSSASIA][fossasia] Open Source Knitting P
   - [circle-knitting][circle-knitting]
 - [How to Contribute][how-to-contribute]
 - [Other Projects][related-work]
-- [Inactive Projects][inactive-projects]
+- [Inactive Projects](#inactive-projects)
 
 Communication
 -------------------------
