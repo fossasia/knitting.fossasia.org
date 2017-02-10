@@ -37,7 +37,7 @@ The Knit Editor is an editor for the knit exchange format. It allows [creating d
 
 **Repository:** [GitHub][kniteditor-repo]
 
-**Tutorials:**[Videos on YouTube][tutorial-videos]
+**Tutorials:** [Videos on YouTube][tutorial-videos]
 
 [![Issues Ready to Work on][kniteditor-waffle-badge]][kniteditor-waffle]
 [![Read the Documentation][kniteditor-rtd-badge]][kniteditor-rtd]
@@ -90,7 +90,7 @@ The `AYABInterface` is used by the [Knit Editor][kniteditor] to convert [knittin
 
 **Repository:** [GitHub][AYABInterface-repo]
 
-**Tutorial:** [Tutorial Videos][tutorial-videos],
+**Tutorial:** [Videos on Youtube][tutorial-videos]
 
 [![Issues Ready to Work on][AYABInterface-waffle-badge]][AYABInterface-waffle]
 [![Read the Documentation][AYABInterface-rtd-badge]][AYABInterface-rtd]
