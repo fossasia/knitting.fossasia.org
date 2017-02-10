@@ -125,22 +125,8 @@ This project implements the idea to code a circular knitting machine.
 
 --
 
-### knitweb [![View on Github][github-logo]][knitweb-repo]
 
-[`knitweb`][knitweb-repo] is an app frontend and backend that works together with the
-[`knitlib`][knitlib] server and uses the [`knitpat`][knitpat] format.
 
-**Read about the project:**
-
-- [Functionality of knitWeb Application][knitweb-blog-functionality].
-- [KnitWeb Localization][knitweb-blog-localization].
-
-**Repository:** [GitHub][knitweb-repo]
-
-**Contribute:**
-[![Issues Ready to Work on][knitweb-waffle-badge]][knitweb-waffle]
-
-**Related Projects:** [knitlib][knitlib], [knitpat][knitpat], [knitserver][knitserver]
 
 --
 
@@ -165,17 +151,10 @@ Knitlib is a library designed to support the operation of varied knitting machin
 
 --
 
-### knitserver [![View on Github][github-logo]][knitserver-repo]
 
-Knitserver is a [Knitlib][knitlib] client that provides REST API endpoints for knitting machine software and control.
-Knitserver is designed to interact with [Knitweb][knitweb].
 
-**Repository:** [GitHub][knitserver-repo]
 
-**Contribute:**
-[![Issues Ready to Work on][knitserver-waffle-badge]][knitserver-waffle]
 
-**Related Projects:** [knitlib][knitlib], [knitpat][knitpat], [knitweb][knitweb]
 --
 
 How to Contribute
@@ -230,13 +209,11 @@ You can comment on issues and through these reach the developers directly. We ha
 Related Work
 ------------
 
-This section contains links and related projets and work in the field of knitting.
-Additionally, other overview sites are listed here.
+This section contains links and related projets and work in the field of knitting. Additionally, other overview sites are listed here.
 
 ### Links
 
-These are links to other projects and overview sites.
-The objective is to ease exploring the network of people and projects.
+These are links to other projects and overview sites. The objective is to ease exploring the network of people and projects.
 
 - [Community Connections](https://github.com/AllYarnsAreBeautiful/ayab-desktop/wiki/Community-Connections)
 - [Blogpost about Designaknit](http://blog.fossasia.org/designaknit/)
@@ -250,6 +227,25 @@ These projects are a bit older, obsoleted or not maintained any more.
 
 `knitpat` contains a pattern definition format for knit work.
 It is the predecessor of the [`knittingpattern`][knittingpattern] library.
+
+### knitserver [![View on Github][github-logo]][knitserver-repo]
+
+Knitserver is a [Knitlib][knitlib] client that provides REST API endpoints for knitting machine software and control.
+Knitserver is designed to interact with [Knitweb][knitweb]. Repository: [GitHub][knitserver-repo]
+
+### knitweb [![View on Github][github-logo]][knitweb-repo]
+
+[`knitweb`][knitweb-repo] is an app frontend and backend that works together with the
+[`knitlib`][knitlib] server and uses the [`knitpat`][knitpat] format.
+
+**Read about the project:**
+
+- [Functionality of knitWeb Application][knitweb-blog-functionality].
+- [KnitWeb Localization][knitweb-blog-localization].
+
+**Repository:** [GitHub][knitweb-repo]
+
+
 
 
 
