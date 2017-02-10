@@ -119,17 +119,15 @@ This project implements the idea to code a circular knitting machine.
 How to Contribute
 -----------------
 
-### Translate
+**Translate**
 
 A majority of people on earth do not speak English. By translating software, you make it accessible to thousands of people. You can add translations to these projects:
 
 - [kniteditor][kniteditor]
   - [A video on how to translate][kniteditor-translate-video]
   - [Blogpost about localization implementation][kniteditor-blog-kivy-revelations]
-- [knitweb][knitweb]
-  - [Blogpost about localization][knitweb-blog-localization]
 
-### Improve Metrics
+**Improve Metrics**
 
 Improving code metrics requires coding but not the understanding of how the code works. You learn how to set up this specific environment, fix some code and while doing this, you read it and get familiar with it. When your pull request is merged, you have contributed to the health of the project. Some of the repositories have code metrics like code coverage and code quality. They can be improved easily. E.g. in [this example][improve-metrics-example] you can find this error:
 
@@ -138,7 +136,7 @@ Improving code metrics requires coding but not the understanding of how the code
 
 This can fix this by adding spaces around the operator. 
 
-### Solve Issues
+** Solve Issues**
 
 All the projects have "issues" attached to them. They show bugs and feature requests. A solved issue improves the life of somebody on earth. When solving the issue, you are introduced to the development process of the project and learn how to adapt the project to your needs. Issues can be found in the issue tracker of github. You can find them through the "Repository" links of the [projects][project-list] or by clicking these badges:  
 [![knitting.fossasia.org-waffle-badge]][knitting.fossasia.org-waffle]  
@@ -149,13 +147,24 @@ Issues can be `easy`. You may pick those first to get into the project. Issues c
 The projects have tests and documentation:  
 [![Test Coverage][knittingpattern-test-coverage-badge]][knittingpattern-test-coverage]
 [![Read the Documentation][knittingpattern-rtd-badge]][knittingpattern-rtd]  
-Code should be documented and tested.
-Consider trying out [documentation driven development][ddd],
-[Test-First][test-first] and [test-driven development][tdd].
+Code should be documented and tested. Consider trying out [documentation driven development][ddd], [Test-First][test-first] and [test-driven development][tdd].
 
 
+--
 
-### Get in Touch
+Related Work
+------------
+
+This section contains links and related projets and work in the field of knitting. Other overview sites are listed here. The objective is to ease exploring the network of people and projects.
+
+- [Community Connections](https://github.com/AllYarnsAreBeautiful/ayab-desktop/wiki/Community-Connections)
+- [Blogpost about Designaknit](http://blog.fossasia.org/designaknit/)
+
+
+--
+
+Get in Touch
+------------
 
 [FOSSASIA][fossasia] has a [Slack][slack] to chat in the community. You can use the main channel or **#knitting**. You can contact me directly. I started this site. You can find me on [github][github-niccokunzmann] and [Slack][slack] under the name "niccokunzmann". 
 
@@ -165,39 +174,26 @@ You can comment on issues and through these reach the developers directly. We ha
 
 --
 
-Related Work
-------------
-
-This section contains links and related projets and work in the field of knitting. Additionally, other overview sites are listed here.
-
-### Links
-
-These are links to other projects and overview sites. The objective is to ease exploring the network of people and projects.
-
-- [Community Connections](https://github.com/AllYarnsAreBeautiful/ayab-desktop/wiki/Community-Connections)
-- [Blogpost about Designaknit](http://blog.fossasia.org/designaknit/)
-
-
 Outdated Projects
 -----------------
 
 These projects are a bit older, obsoleted or not maintained any more.
 
-### knitpat [![View on Github][github-logo]][knitpat-repo]
+### knitpat [![View on Github]
 
 `knitpat` contains a pattern definition format for knit work.
 It is the predecessor of the [`knittingpattern`][knittingpattern] library.
 
-### knitserver [![View on Github][github-logo]][knitserver-repo]
+### knitserver [![View on Github]
 
 Knitserver is a [Knitlib][knitlib] client that provides REST API endpoints for knitting machine software and control.
 Knitserver is designed to interact with [Knitweb][knitweb]. Repository: [GitHub][knitserver-repo]
 
-### knitweb [![View on Github][github-logo]][knitweb-repo]
+### knitweb [![View on Github]
 
 [`knitweb`][knitweb-repo] is an app frontend and backend that works together with the [`knitlib`][knitlib] server and uses the [`knitpat`][knitpat] format. Repository: [GitHub][knitweb-repo]
 
-### knitlib [![View on Github][github-logo]][knitlib-repo]
+### knitlib [![View on Github]
 
 Knitlib is a library designed to support the operation of varied knitting machines, mechanisms, and hacks. Knitlib is based on projects like [AYAB][ayab], PDD, and KnitterStream to control knitting machines. Knitlib features a plugin system for knitting machines and implements an API to control machines' operation, knitting jobs and knitting patterns. The software is based on Python. There also is a Web API. Among the primary tasks is to develop plugins based on this solution to add support for more machines. Repository: [GitHub][knitlib-repo]
 
