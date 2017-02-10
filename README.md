@@ -1,9 +1,7 @@
 Open Source Knitting
 =================
 
-[FOSSASIA][fossasia] has several open-source knitting projects.
-Here, you find an overview over [these projects][project-list].
-You can [get started developing][how-to-contribute] on the projects or just check them out and install them.
+[FOSSASIA][fossasia] has several open-source knitting projects. Here, you find an overview over [these projects][project-list]. You can [get started developing][how-to-contribute] on the projects or just check them out and install them.
 In case you are interested to connect with people, you can [get in touch with us :)][get-in-touch].
 If you are interested in related work, [look here][related-work].
 
@@ -32,22 +30,16 @@ Here you can find a list of knitting projects in the FOSSASIA organization.
 
 ### kniteditor [![View on Github][github-logo]][kniteditor-repo]
 
-The Knit Editor is an editor for the knit exchange format.
-It allows [creating digital knit works][knittingpattern] from images
-and knitting it with several knitting machines.
-
-This kniteditor is developed together with [All Yarns Are Beautiful][ayab].
-You can [download the releases][kniteditor-releases] and install them.
+The Knit Editor is an editor for the knit exchange format. It allows [creating digital knit works][knittingpattern] from images and knitting it with several knitting machines. This kniteditor is developed together with [All Yarns Are Beautiful][ayab]. You can [download the releases][kniteditor-releases] and install them.
 
 **Read about the project:**
 
 - [blog post about this project][kniteditor-blog-overview].
 
-**Related Projects:** [knittingpattern][knittingpattern], [AYABInterface][AYABInterface]
+**Repository:** [Repository][kniteditor-repo]
+**Tutorials:**[Tutorial Videos][tutorial-videos]
 
 **Contribute:**
-[Tutorial Videos][tutorial-videos],
-[Repository][kniteditor-repo]
 [![Issues Ready to Work on][kniteditor-waffle-badge]][kniteditor-waffle]
 [![Read the Documentation][kniteditor-rtd-badge]][kniteditor-rtd]
 [![Travis Build Status][kniteditor-travis-badge]][kniteditor-travis]
@@ -57,7 +49,8 @@ You can [download the releases][kniteditor-releases] and install them.
 [![Code Issue Count][kniteditor-issue-count-badge]][kniteditor-issue-count]
 [![Code Health][kniteditor-landscape-badge]][kniteditor-landscape]
 [![Python Package Index Version][kniteditor-pypi-badge]][kniteditor-pypi]
-[![Python Package Index Downloads][kniteditor-pypi-downloads-badge]][kniteditor-pypi-downloads]
+
+**Related Projects:** [knittingpattern][knittingpattern], [AYABInterface][AYABInterface]
 
 --
 
@@ -70,11 +63,10 @@ It allows specifying how to knit a particular piece of work.
 
 - [blog post about this project][knittingpattern-blog-conversion].
 
-**Related Projects:** [AYABInterface][AYABInterface], [kniteditor][kniteditor]
+**Repository:** [Repository][knittingpattern-repo]
+**Tutorial:** [Tutorial Videos][tutorial-videos]
 
 **Contribute:**
-[Tutorial Videos][tutorial-videos],
-[Repository][knittingpattern-repo]
 [![Issues Ready to Work on][knittingpattern-waffle-badge]][knittingpattern-waffle]
 [![Read the Documentation][knittingpattern-rtd-badge]][knittingpattern-rtd]
 [![Travis Build Status][knittingpattern-travis-badge]][knittingpattern-travis]
@@ -84,7 +76,8 @@ It allows specifying how to knit a particular piece of work.
 [![Code Issue Count][knittingpattern-issue-count-badge]][knittingpattern-issue-count]
 [![Code Health][knittingpattern-landscape-badge]][knittingpattern-landscape]
 [![Python Package Index Version][knittingpattern-pypi-badge]][knittingpattern-pypi]
-[![Python Package Index Downloads][knittingpattern-pypi-downloads-badge]][knittingpattern-pypi-downloads]
+
+**Related Projects:** [AYABInterface][AYABInterface], [kniteditor][kniteditor]
 
 --
 
@@ -99,11 +92,10 @@ It can be used standalone without these other projects. You can
 - [blog post about this project][AYABInterface-blog]
 - [The new AYABInterface module][AYABInterface-blog-new-module]
 
-**Related Projects:** [knittingpattern][knittingpattern], [kniteditor][kniteditor]
+**Repository:** [Repository][AYABInterface-repo]
+**Tutorial:** [Tutorial Videos][tutorial-videos],
 
 **Contribute:**
-[Tutorial Videos][tutorial-videos],
-[Repository][AYABInterface-repo]
 [![Issues Ready to Work on][AYABInterface-waffle-badge]][AYABInterface-waffle]
 [![Read the Documentation][AYABInterface-rtd-badge]][AYABInterface-rtd]
 [![Travis Build Status][AYABInterface-travis-badge]][AYABInterface-travis]
@@ -115,6 +107,8 @@ It can be used standalone without these other projects. You can
 [![Python Package Index Version][AYABInterface-pypi-badge]][AYABInterface-pypi]
 [![Python Package Index Downloads][AYABInterface-pypi-downloads-badge]][AYABInterface-pypi-downloads]
 
+**Related Projects:** [knittingpattern][knittingpattern], [kniteditor][kniteditor]
+
 --
 
 ### circle-knitting [![View on Github][github-logo]][circle-knitting-repo]
@@ -122,8 +116,9 @@ It can be used standalone without these other projects. You can
 The goal of this project is to develop a knitting machine that is entirely made from plastic. An enhanced model can include a micro PC that can control the machine using our Open Source knitting software. This project can enable people to print out a plastic on a 3D printer. 
 This project implements the idea to code a circular knitting machine. 
 
+**Repository:** [Repository][circle-knitting-repo]
+
 **Contribute:**
-[Repository][circle-knitting-repo]
 [![Issues Ready to Work on][circle-knitting-waffle-badge]][circle-knitting-waffle]
 
 --
@@ -133,27 +128,23 @@ This project implements the idea to code a circular knitting machine.
 [`knitweb`][knitweb-repo] is an app frontend and backend that works together with the
 [`knitlib`][knitlib] server and uses the [`knitpat`][knitpat] format.
 
-**Related Projects:** [knitlib][knitlib], [knitpat][knitpat], [knitserver][knitserver]
-
 **Read about the project:**
 
 - [Functionality of knitWeb Application][knitweb-blog-functionality].
 - [KnitWeb Localization][knitweb-blog-localization].
 
+**Repository:** [Repository][knitweb-repo]
+
 **Contribute:**
-[Repository][knitweb-repo]
 [![Issues Ready to Work on][knitweb-waffle-badge]][knitweb-waffle]
+
+**Related Projects:** [knitlib][knitlib], [knitpat][knitpat], [knitserver][knitserver]
 
 --
 
 ### knitlib [![View on Github][github-logo]][knitlib-repo]
 
-Knitlib is a library designed to support the operation of varied knitting machines, mechanisms, and hacks.
-Knitlib is based on projects like [AYAB][ayab], PDD, and KnitterStream to control knitting machines.
-Knitlib features a plugin system for knitting machines and implements an API to control machines' operation,
-knitting jobs and knitting patterns. The software is based on Python.
-There also is a Web API.
-Among the primary tasks is to develop plugins based on this solution to add support for more machines.
+Knitlib is a library designed to support the operation of varied knitting machines, mechanisms, and hacks. Knitlib is based on projects like [AYAB][ayab], PDD, and KnitterStream to control knitting machines. Knitlib features a plugin system for knitting machines and implements an API to control machines' operation, knitting jobs and knitting patterns. The software is based on Python. There also is a Web API. Among the primary tasks is to develop plugins based on this solution to add support for more machines.
 
 **Read about the project:**
 
@@ -161,13 +152,14 @@ Among the primary tasks is to develop plugins based on this solution to add supp
 - [Knitting machine abstractions for Knitlib][knitlib-blog-machine-abstraction].
 - [Importance of the test cases for the KnitLib][knitlib-blog-importance-testcases].
 
-**Related Projects:** [knitpat][knitpat], [knitweb][knitweb], [knitserver][knitserver]
+**Repository:** [Repository][knitlib-repo]
 
 **Contribute:**
-[Repository][knitlib-repo]
 [![Issues Ready to Work on][knitlib-waffle-badge]][knitlib-waffle]
 [![Read the Documentation][knitlib-rtd-badge]][knitlib-rtd]
 [![Travis Build Status][knitlib-travis-badge]][knitlib-travis]
+
+**Related Projects:** [knitpat][knitpat], [knitweb][knitweb], [knitserver][knitserver]
 
 --
 
@@ -176,12 +168,12 @@ Among the primary tasks is to develop plugins based on this solution to add supp
 Knitserver is a [Knitlib][knitlib] client that provides REST API endpoints for knitting machine software and control.
 Knitserver is designed to interact with [Knitweb][knitweb].
 
-**Related Projects:** [knitlib][knitlib], [knitpat][knitpat], [knitweb][knitweb]
+**Repository:** [Repository][knitserver-repo]
 
 **Contribute:**
-[Repository][knitserver-repo]
 [![Issues Ready to Work on][knitserver-waffle-badge]][knitserver-waffle]
 
+**Related Projects:** [knitlib][knitlib], [knitpat][knitpat], [knitweb][knitweb]
 --
 
 How to Contribute
