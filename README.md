@@ -1,4 +1,4 @@
-Knitting Projects
+Open Source Knitting
 =================
 
 [FOSSASIA][fossasia] has several open-source knitting projects.
@@ -31,7 +31,7 @@ If you are interested in related work, [look here][related-work].
 List of Knitting Projects
 -------------------------
 
-Here you can find a list of knitting projects in the FOSSASIA organization:
+Here you can find a list of knitting projects in the FOSSASIA organization.
 
 ### kniteditor [![View on Github][github-logo]][kniteditor-repo]
 
@@ -62,7 +62,7 @@ You can [download the releases][kniteditor-releases] and install them.
 [![Python Package Index Version][kniteditor-pypi-badge]][kniteditor-pypi]
 [![Python Package Index Downloads][kniteditor-pypi-downloads-badge]][kniteditor-pypi-downloads]
 
-
+--
 
 ### knittingpattern [![View on Github][github-logo]][knittingpattern-repo]
 
@@ -89,7 +89,7 @@ It allows specifying how to knit a particular piece of work.
 [![Python Package Index Version][knittingpattern-pypi-badge]][knittingpattern-pypi]
 [![Python Package Index Downloads][knittingpattern-pypi-downloads-badge]][knittingpattern-pypi-downloads]
 
-
+--
 
 ### AYABInterface [![View on Github][github-logo]][AYABInterface-repo]
 
@@ -118,7 +118,7 @@ It can be used standalone without these other projects. You can
 [![Python Package Index Version][AYABInterface-pypi-badge]][AYABInterface-pypi]
 [![Python Package Index Downloads][AYABInterface-pypi-downloads-badge]][AYABInterface-pypi-downloads]
 
-
+--
 
 ### knitting.fossasia.org [![View on Github][github-logo]][knitting.fossasia.org-repo]
 
@@ -140,11 +140,8 @@ This is this overview site over the different knitting projects and aims at intr
 
 ### circle-knitting [![View on Github][github-logo]][circle-knitting-repo]
 
-There are commercial circular knitting machines, that are nearly completely made from plastic. 
-A popular modul is the Addi Express. 
-Plastic can be easily printed out on 3D printers. 
+The goal of this project is to develop a knitting machine that is entirely made from plastic. An enhanced model can include a micro PC that can control the machine using our Open Source knitting software. This project can enable people to print out a plastic on a 3D printer. 
 This project implements the idea to code a circular knitting machine. 
-As inexpensive small PCs components like the Rapsberry PI and Arduinos become increasingly powerful there is even an option to include them as optional components in such a 3D printed knitting machine. You can
 
 - visit the [website for this project][circle-knitting-website].
 
@@ -152,7 +149,7 @@ As inexpensive small PCs components like the Rapsberry PI and Arduinos become in
 [Repository][circle-knitting-repo]
 [![Issues Ready to Work on][circle-knitting-waffle-badge]][circle-knitting-waffle]
 
-
+--
 
 ### knitweb [![View on Github][github-logo]][knitweb-repo]
 
@@ -170,7 +167,7 @@ As inexpensive small PCs components like the Rapsberry PI and Arduinos become in
 [Repository][knitweb-repo]
 [![Issues Ready to Work on][knitweb-waffle-badge]][knitweb-waffle]
 
-
+--
 
 ### knitlib [![View on Github][github-logo]][knitlib-repo]
 
@@ -245,14 +242,7 @@ You can add translations to these projects:
 
 ### Improve Metrics
 
-Improving code metrics requires coding but not the understanding of how the code works.
-You learn how to set up this specific environment, fix some code and while doing this,
-you read it and get familiar with it.
-When your pull request is merged, you have contributed to the health of the project.
-
-Some of the repositories have code metrics like code coverage and code quality.
-They can be improved easily.
-E.g. in [this example][improve-metrics-example] you can find this error:
+Improving code metrics requires coding but not the understanding of how the code works. You learn how to set up this specific environment, fix some code and while doing this, you read it and get familiar with it. When your pull request is merged, you have contributed to the health of the project. Some of the repositories have code metrics like code coverage and code quality. They can be improved easily. E.g. in [this example][improve-metrics-example] you can find this error:
 
      	        bbox = list(map(lambda f: f*zoom, layout.bounding_box))
 	    missing whitespace around arithmetic operator
@@ -263,22 +253,11 @@ This can fix this by adding spaces around the operator.
 
 ### Solve Issues
 
-All the projects have "issues" attached to them.
-They show bugs and feature requests.
-A solved issue improves the life of somebody on earth.
-When solving the issue, you are introduced to the development process of the project and learn how to adapt the project to your needs.
-
-Issues can be found in the issue tracker of github.
-You can find them through the "Repository" links of the [projects][project-list] or by clicking these badges:  
+All the projects have "issues" attached to them. They show bugs and feature requests. A solved issue improves the life of somebody on earth. When solving the issue, you are introduced to the development process of the project and learn how to adapt the project to your needs. Issues can be found in the issue tracker of github. You can find them through the "Repository" links of the [projects][project-list] or by clicking these badges:  
 [![knitting.fossasia.org-waffle-badge]][knitting.fossasia.org-waffle]  
-The badge above links to the overview of all listed projects.
-If you find an issue which interests you, please comment that you would like to work on it.
-This way, you get help and it is not done twice.
+The badge above links to the overview of all listed projects. If you find an issue which interests you, please comment that you would like to work on it. This way, you get help and it is not done twice.
 
-Issues can be `easy`. You may pick those first to get into the project. 
-Issues can have multiple bullet points or check boxes.
-You do not need to solve all of them.
-You can choose one and solve it.
+Issues can be `easy`. You may pick those first to get into the project. Issues can have multiple bullet points or check boxes. You do not need to solve all of them. You can choose one and solve it.
 
 The projects have tests and documentation:  
 [![Test Coverage][knittingpattern-test-coverage-badge]][knittingpattern-test-coverage]
@@ -291,37 +270,21 @@ Consider trying out [documentation driven development][ddd],
 
 ### Get in Touch
 
-[FOSSASIA][fossasia] has a [Slack][slack] to chat in the community. You can use the main channel or **#knitting**.
-
-You can contact me directly. I started this site. You can find me on [github][github-niccokunzmann] and [Slack][slack] under the name "niccokunzmann".
+[FOSSASIA][fossasia] has a [Slack][slack] to chat in the community. You can use the main channel or **#knitting**. You can contact me directly. I started this site. You can find me on [github][github-niccokunzmann] and [Slack][slack] under the name "niccokunzmann". 
 
 There is a [mailing list for knitting applications][mailing-list] such as [these listed][project-list]. You can also join the [FOSSASIA mailing list][fossasia-mailing-list].
 
-You can comment on issues and through these reach the developers directly.
-
-We have a Gitter chat which you can join: [![Join the chat at https://gitter.im/fashiontec/knitapps][gitter-svg]][gitter]
+You can comment on issues and through these reach the developers directly. We have a Gitter chat which you can join: [![Join the chat at https://gitter.im/fashiontec/knitapps][gitter-svg]][gitter]
 
 For a broad overview on how to join FOSSASIA, see the [FOSSASIA labs][labs].
+
+--
 
 Related Work
 ------------
 
 This section contains links and related projets and work in the field of knitting.
 Additionally, other overview sites are listed here.
-
-
-
-### ayab-apparat [![View on Github][github-logo]][ayab-apparat-repo]
-
-This Software is a predecessor of [the Knit Editor][kniteditor].
-It is written in Python and Qt.
-[AYAB][ayab] maintains this project.
-The 2016 [Google Summer of Code Project][ayab-apparat-fork] forked this repository and added the issues for the [kniteditor][kniteditor], [knittingpattern][knittingpattern] and [AYABInterface][AYABInterface].
-
-**Contribute:**
-[Repository][ayab-apparat-repo]
-
-
 
 ### Links
 
@@ -340,22 +303,6 @@ These projects are a bit older, obsoleted or not maintained any more.
 
 `knitpat` contains a pattern definition format for knit work.
 It is the predecessor of the [`knittingpattern`][knittingpattern] library.
-
-**Related Projects:** [knitlib][knitlib], [knitserver][knitserver], [knitweb][knitweb]
-
-**Contribute:**
-[Repository][knitpat-repo]
-[![Issues Ready to Work on][knitpat-waffle-badge]][knitpat-waffle]
-
-
-
-### knitapps [![View on Github][github-logo]][knitapps-repo]
-
-An older version of [this overview site][top].
-
-**Contribute:**
-[Repository][knitapps-repo]
-[![Issues Ready to Work on][knitapps-waffle-badge]][knitapps-waffle]
 
 
 
