@@ -1,11 +1,9 @@
 Open Source Knitting
 =================
 
-[FOSSASIA][fossasia] has several open-source knitting projects. Here, you find an overview over [these projects][project-list]. You can [get started developing][how-to-contribute] on the projects or just check them out and install them.
-In case you are interested to connect with people, you can [get in touch with us :)][get-in-touch].
-If you are interested in related work, [look here][related-work].
+On this page you find an overview of [FOSSASIA][fossasia] Open Source Knitting Projects and you start to [get involved][how-to-contribute]. You can also can [get in touch with us :)][get-in-touch] and check out other [projects][related-work] working on Open Source knitting.
 
-- [List of Knitting Projects][project-list]
+- [Knitting Projects][project-list]
   - [kniteditor][kniteditor]
   - [knittingpattern][knittingpattern]
   - [AYABInterface][AYABInterface]
@@ -14,12 +12,10 @@ If you are interested in related work, [look here][related-work].
 - [Related Work][related-work]
 - [Outdated Projects][outdated-projects]
 
-List of Knitting Projects
+Knitting Projects
 -------------------------
 
-Here you can find a list of knitting projects in the FOSSASIA organization.
-
-### kniteditor [![View on Github][github-logo]][kniteditor-repo]
+### kniteditor
 
 The Knit Editor is an editor for the knit exchange format. It allows [creating digital knit works][knittingpattern] from images and knitting it with several knitting machines. This kniteditor is developed together with [All Yarns Are Beautiful][ayab]. You can [download the releases][kniteditor-releases] and install them.
 
@@ -28,7 +24,8 @@ The Knit Editor is an editor for the knit exchange format. It allows [creating d
 - [blog post about this project][kniteditor-blog-overview].
 
 **Repository:** [GitHub][kniteditor-repo]
-**Tutorials:**[Tutorial Videos][tutorial-videos]
+
+**Tutorials:**[Videos on YouTube][tutorial-videos]
 
 **Contribute:**
 [![Issues Ready to Work on][kniteditor-waffle-badge]][kniteditor-waffle]
@@ -45,7 +42,7 @@ The Knit Editor is an editor for the knit exchange format. It allows [creating d
 
 --
 
-### knittingpattern [![View on Github][github-logo]][knittingpattern-repo]
+### knittingpattern
 
 The `knittingpattern` is a Python library for an exchange format for knit work.
 It allows specifying how to knit a particular piece of work.
@@ -56,7 +53,7 @@ It allows specifying how to knit a particular piece of work.
 
 **Repository:** [GitHub][knittingpattern-repo]
 
-**Tutorial:** [Tutorial Videos][tutorial-videos]
+**Tutorial:** [Videos on YouTube][tutorial-videos]
 
 **Contribute:**
 [![Issues Ready to Work on][knittingpattern-waffle-badge]][knittingpattern-waffle]
@@ -71,7 +68,7 @@ It allows specifying how to knit a particular piece of work.
 
 **Related Projects:** [AYABInterface][AYABInterface], [kniteditor][kniteditor]
 
---
+---
 
 ### AYABInterface [![View on Github][github-logo]][AYABInterface-repo]
 
@@ -102,7 +99,7 @@ It can be used standalone without these other projects. You can
 
 **Related Projects:** [knittingpattern][knittingpattern], [kniteditor][kniteditor]
 
---
+---
 
 ### circle-knitting [![View on Github][github-logo]][circle-knitting-repo]
 
@@ -114,7 +111,7 @@ This project implements the idea to code a circular knitting machine.
 **Contribute:**
 [![Issues Ready to Work on][circle-knitting-waffle-badge]][circle-knitting-waffle]
 
---
+---
 
 How to Contribute
 -----------------
@@ -141,7 +138,7 @@ This can fix this by adding spaces around the operator.
 All the projects have "issues" attached to them. They show bugs and feature requests. A solved issue improves the life of somebody on earth. When solving the issue, you are introduced to the development process of the project and learn how to adapt the project to your needs. Issues can be found in the issue tracker of github. The badge above links to the overview of all listed projects. If you find an issue which interests you, please comment that you would like to work on it. This way, you get help and it is not done twice. Code should be documented and tested. Consider trying out [documentation driven development][ddd], [Test-First][test-first] and [test-driven development][tdd].
 
 
---
+---
 
 Related Work
 ------------
@@ -152,7 +149,7 @@ This section contains links and related projets and work in the field of knittin
 - [Blogpost about Designaknit](http://blog.fossasia.org/designaknit/)
 
 
---
+---
 
 Get in Touch
 ------------
@@ -163,12 +160,12 @@ There is a [mailing list for knitting applications][mailing-list] such as [these
 
 You can comment on issues and through these reach the developers directly. We have a Gitter chat which you can join: [![Join the chat at https://gitter.im/fashiontec/knitapps][gitter-svg]][gitter]
 
---
+---
 
 Outdated Projects
 -----------------
 
-These projects are a bit older, obsoleted or not maintained any more.
+These projects are a bit older, obsolete or not maintained any more.
 
 ### knitpat
 
@@ -188,7 +185,7 @@ Knitserver is designed to interact with [Knitweb][knitweb]. Repository: [GitHub]
 
 Knitlib is a library designed to support the operation of varied knitting machines, mechanisms, and hacks. Knitlib is based on projects like [AYAB][ayab], PDD, and KnitterStream to control knitting machines. Knitlib features a plugin system for knitting machines and implements an API to control machines' operation, knitting jobs and knitting patterns. The software is based on Python. There also is a Web API. Among the primary tasks is to develop plugins based on this solution to add support for more machines. Repository: [GitHub][knitlib-repo]
 
-
+---
 
 
 To edit [website][this-site] or [add new entries][knitting.fossasia.org-edit] visit the [Repository][knitting.fossasia.org-repo]
