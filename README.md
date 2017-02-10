@@ -136,7 +136,7 @@ Improving code metrics requires coding but not the understanding of how the code
 
 This can fix this by adding spaces around the operator. 
 
-** Solve Issues**
+**Solve Issues**
 
 All the projects have "issues" attached to them. They show bugs and feature requests. A solved issue improves the life of somebody on earth. When solving the issue, you are introduced to the development process of the project and learn how to adapt the project to your needs. Issues can be found in the issue tracker of github. You can find them through the "Repository" links of the [projects][project-list] or by clicking these badges:  
 [![knitting.fossasia.org-waffle-badge]][knitting.fossasia.org-waffle]  
