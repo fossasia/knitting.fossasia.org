@@ -10,7 +10,7 @@ On this page you find an overview of [FOSSASIA][fossasia] Open Source Knitting P
   - [circle-knitting][circle-knitting]
 - [How to Contribute][how-to-contribute]
 - [Other Projects][related-work]
-- [Inactive Projects](#inactive-projects)
+- [Inactive Projects][inactive-projects]
 
 Communication
 -------------------------
@@ -148,7 +148,7 @@ This section contains links and related projets and work in the field of knittin
 ---
 
 
-Outdated Projects
+Inactive Projects
 -----------------
 
 These projects are a bit older, obsolete or not maintained any more.
@@ -179,7 +179,7 @@ To edit [website][this-site] or [add new entries][knitting.fossasia.org-edit] vi
 
 [top]: #Open-Source-Knitting-Projects
 [project-list]: #knitting-projects
-[outdated-projects]: #outdated-projects
+[outdated-projects]: #inactive-projects
 [this-site]: https://knitting.fossasia.org
 [ayab]: http://ayab-knitting.com/
 [related-work]: #related-work
