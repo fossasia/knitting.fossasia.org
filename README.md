@@ -1,7 +1,7 @@
 Open Source Knitting
 =================
 
-On this page you find an overview of [FOSSASIA][fossasia] Open Source Knitting Projects and you start to [get involved][how-to-contribute]. You can also can get in touch with us and check out other [projects][related-work] working on Open Source knitting.
+On this page you find an overview of [FOSSASIA][fossasia] Open Source Knitting Projects and you start to [get involved][how-to-contribute]. You can also can get in touch with us and check out other [projects][other-projects] working on Open Source knitting.
 
 - [Knitting Projects][project-list]
   - [kniteditor][kniteditor]
@@ -9,8 +9,8 @@ On this page you find an overview of [FOSSASIA][fossasia] Open Source Knitting P
   - [AYABInterface][AYABInterface]
   - [circle-knitting][circle-knitting]
 - [How to Contribute][how-to-contribute]
-- [Other Projects][related-work]
-- [Inactive Projects][inactive-projects]
+- [Other Projects][other-projects]
+- [Inactive Projects](inactive-projects)
 
 Communication
 -------------------------
@@ -179,10 +179,10 @@ To edit [website][this-site] or [add new entries][knitting.fossasia.org-edit] vi
 
 [top]: #Open-Source-Knitting-Projects
 [project-list]: #knitting-projects
-[outdated-projects]: #inactive-projects
+[inactive-projects]: #inactive-projects
 [this-site]: https://knitting.fossasia.org
 [ayab]: http://ayab-knitting.com/
-[related-work]: #related-work
+[other-projects]: #other-projects
 [fossasia]: https://fossasia.org
 [mailing-list]: https://groups.google.com/forum/#!forum/knitapps
 [how-to-contribute]: #how-to-contribute
