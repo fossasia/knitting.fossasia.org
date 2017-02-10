@@ -120,24 +120,6 @@ It can be used standalone without these other projects. You can
 
 --
 
-### knitting.fossasia.org [![View on Github][github-logo]][knitting.fossasia.org-repo]
-
-This is this overview site over the different knitting projects and aims at introducing new people to the community. You can 
-
-- visit the [website][this-site]
-- [add new entries][knitting.fossasia.org-edit] for [projects][project-list] and [related work][related-work]
-- read about it.
-
-**Read about the project:**
-
-- [New Landing Page for FOSSASIA Knitting Projects][knitting.fossasia.org-blogpost].
-
-**Contribute:**
-[Repository][knitting.fossasia.org-repo]
-[![Issues Ready to Work on][knitting.fossasia.org-waffle-badge]][knitting.fossasia.org-waffle]
-
-
-
 ### circle-knitting [![View on Github][github-logo]][circle-knitting-repo]
 
 The goal of this project is to develop a knitting machine that is entirely made from plastic. An enhanced model can include a micro PC that can control the machine using our Open Source knitting software. This project can enable people to print out a plastic on a 3D printer. 
@@ -192,7 +174,7 @@ Among the primary tasks is to develop plugins based on this solution to add supp
 [![Read the Documentation][knitlib-rtd-badge]][knitlib-rtd]
 [![Travis Build Status][knitlib-travis-badge]][knitlib-travis]
 
-
+--
 
 ### knitserver [![View on Github][github-logo]][knitserver-repo]
 
@@ -205,32 +187,24 @@ Knitserver is designed to interact with [Knitweb][knitweb].
 [Repository][knitserver-repo]
 [![Issues Ready to Work on][knitserver-waffle-badge]][knitserver-waffle]
 
-
+--
 
 How to Contribute
 -----------------
 
-You can have various reasons to contribute to the software.
-This section aims to give you an overview over ways to get started.
-
-The projects listed on this page have a **Contribute:** section which includes links for developers such as [tutorial videos][tutorial-videos]. In the following we will clarify how you can use them to jump into development.
+You can have various reasons to contribute to the software. This section aims to give you an overview over ways to get started. The projects listed on this page have a **Contribute:** section which includes links for developers such as [tutorial videos][tutorial-videos]. In the following we will clarify how you can use them to jump into development.
 If you have any questions, please [get in touch][get-in-touch] :)
 
 ### For Beginners
 
-All these projects are hosted on github. They use git to [control every version of the software][vcs].
-In order to contribute, please first get to know git and github.
-Therefore, you can do tutorials:
+All these projects are hosted on github. They use git to [control every version of the software][vcs]. In order to contribute, please first get to know git and github. Therefore, you can do tutorials:
 
 - [git guide][git-guide] in several languages
 - [try github][try-github]
 
 ### Translate
 
-A majority of people on earth do not speak English.
-By translating software, you make it accessible to thousands of people.
-
-You can add translations to these projects:
+A majority of people on earth do not speak English. By translating software, you make it accessible to thousands of people. You can add translations to these projects:
 
 - [kniteditor][kniteditor]
   - [A video on how to translate][kniteditor-translate-video]
@@ -306,7 +280,7 @@ It is the predecessor of the [`knittingpattern`][knittingpattern] library.
 
 
 
-
+To edit [website][this-site] or [add new entries][knitting.fossasia.org-edit] visit the [Repository][knitting.fossasia.org-repo]
 
 
 
