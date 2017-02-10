@@ -171,7 +171,7 @@ To edit [website][this-site] or [add new entries][knitting.fossasia.org-edit] vi
 [this-site]: https://knitting.fossasia.org
 [ayab]: http://ayab-knitting.com/
 [other-projects]: #other-projects
-[fossasia]: https://fossasia.org
+[fossasia]: http://fossasia.org
 [mailing-list]: https://groups.google.com/forum/#!forum/knitapps
 [how-to-contribute]: #how-to-contribute
 [improve-metrics-example]: https://landscape.io/github/fossasia/knittingpattern/187/messages/style
