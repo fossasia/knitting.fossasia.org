@@ -10,18 +10,9 @@ If you are interested in related work, [look here][related-work].
   - [knittingpattern][knittingpattern]
   - [AYABInterface][AYABInterface]
   - [circle-knitting][circle-knitting]
-  - [knitweb][knitweb]
-  - [knitlib][knitlib]
-  - [knitserver][knitserver]
 - [How to Contribute][how-to-contribute]
-  - [Translate][translate]
-  - [Solve Issues][solve-issues]
-  - [Get in Touch][get-in-touch]
 - [Related Work][related-work]
-  - [ayab-apparat][ayab-apparat]
-  - [Links][links]
 - [Outdated Projects][outdated-projects]
-  - [knitpat][knitpat]
 
 List of Knitting Projects
 -------------------------
