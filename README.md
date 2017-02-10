@@ -234,7 +234,7 @@ To edit [website][this-site] or [add new entries][knitting.fossasia.org-edit] vi
 
 
 
-[knittingpattern]: #knittingpattern-
+[knittingpattern]: #knittingpattern
 [knittingpattern-repo]: https://github.com/fossasia/knittingpattern
 [knittingpattern-waffle]: http://waffle.io/fossasia/knittingpattern
 [knittingpattern-waffle-badge]: https://badge.waffle.io/fossasia/knittingpattern.svg?label=ready&title=Ready "Stories in Ready"
