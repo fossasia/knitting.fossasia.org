@@ -1,1 +1,4 @@
-theme: jekyll-theme-cayman
+title: Knitting
+description: Open Source Knitting Software with FOSSASIA
+
+remote_theme: niteshkumarniranjan/jekyll-fossasia-theme
